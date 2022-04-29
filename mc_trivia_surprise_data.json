@@ -1,1 +1,1357 @@
-[{"lexicalized": "What language(s) does Vladimir Putin speak, write, or sign with?", "entity": "Q7747", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P1412", "is_single_answer": false, "answers": [{"lexicalized": "English", "qnodes": ["Q1860"], "gt_surprise": 0.5, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "German", "qnodes": ["Q188"], "gt_surprise": 0.2692307692307692, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Russian", "qnodes": ["Q7737"], "gt_surprise": 0.9615384615384616, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Swedish", "qnodes": ["Q9027"], "gt_surprise": 0.23076923076923078, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Spanish", "qnodes": ["Q1321"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has John Oliver had?", "entity": "Q1701254", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Film Actor", "qnodes": ["Q10800557"], "gt_surprise": 0.38461538461538464, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Writer", "qnodes": ["Q36180"], "gt_surprise": 0.6538461538461539, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Television Actor", "qnodes": ["Q10798782"], "gt_surprise": 0.46153846153846156, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Television Presenter", "qnodes": ["Q947873"], "gt_surprise": 0.8461538461538461, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Film Producer", "qnodes": ["Q3282637"], "gt_surprise": 0.2692307692307692, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "Please select the country or countries in which Roger Federer possesses citizenship", "entity": "Q1426", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P27", "is_single_answer": false, "answers": [{"lexicalized": "South Africa", "qnodes": ["Q258"], "gt_surprise": 0.3076923076923077, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Switzerland", "qnodes": ["Q39"], "gt_surprise": 0.6538461538461539, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "South Korea", "qnodes": ["Q884"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "France", "qnodes": ["Q142"], "gt_surprise": 0.23076923076923078, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "United States of America", "qnodes": ["Q30"], "gt_surprise": 0.23076923076923078, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "How many children does Arnold Schwarzenegger have?", "entity": "Q2685", "class": "Q5", "wd_units": "", "is_numeric_answer": true, "property": "P1971", "is_single_answer": true, "answers": [{"lexicalized": "2 or fewer", "gt_surprise": 0.23076923076923078, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [null, 2]}, {"lexicalized": "3", "gt_surprise": 0.2692307692307692, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [3, 3]}, {"lexicalized": "4", "gt_surprise": 0.38461538461538464, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [4, 4]}, {"lexicalized": "5 or more", "gt_surprise": 0.11538461538461539, "truth_value_wd": true, "truth_value_fact_checked": true, "numeric_bounds": [5, null]}]}, {"lexicalized": "What is Boris Johnson's place of birth?", "entity": "Q180589", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P19", "is_single_answer": true, "answers": [{"lexicalized": "New York City", "qnodes": ["Q60"], "gt_surprise": 0.23076923076923078, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Paris", "qnodes": ["Q90"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Rome", "qnodes": ["Q220"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Hamburg", "qnodes": ["Q1055"], "gt_surprise": 0.07692307692307693, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "London", "qnodes": ["Q84"], "gt_surprise": 0.6923076923076923, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has Eminem had?", "entity": "Q5608", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Author", "qnodes": ["Q482980"], "gt_surprise": 0.2692307692307692, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Film Producer", "qnodes": ["Q3282637"], "gt_surprise": 0.5384615384615384, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Entrepreneur", "qnodes": ["Q131524"], "gt_surprise": 0.46153846153846156, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Singer-songwriter", "qnodes": ["Q488205"], "gt_surprise": 0.9615384615384616, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Painter", "qnodes": ["Q1028181"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has George W. Bush had?", "entity": "Q207", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Rugby Union Player", "qnodes": ["Q14089670"], "gt_surprise": 0.07692307692307693, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Politician", "qnodes": ["Q82955"], "gt_surprise": 0.9615384615384616, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Military Officer", "qnodes": ["Q189290"], "gt_surprise": 0.5384615384615384, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Painter", "qnodes": ["Q1028181"], "gt_surprise": 0.38461538461538464, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Singer", "qnodes": ["Q177220"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has Beyonc\u00e9 had?", "entity": "Q36153", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Model", "qnodes": ["Q4610556"], "gt_surprise": 0.5769230769230769, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Voice Actor", "qnodes": ["Q2405480"], "gt_surprise": 0.46153846153846156, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Entrepreneur", "qnodes": ["Q131524"], "gt_surprise": 0.6538461538461539, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Singer-songwriter", "qnodes": ["Q488205"], "gt_surprise": 0.9615384615384616, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Dancer", "qnodes": ["Q5716684"], "gt_surprise": 0.7307692307692307, "truth_value_wd": true, "truth_value_fact_checked": true}]}, {"lexicalized": "What is Donald Trump's mass in pounds circa. 2019?", "entity": "Q22686", "class": "Q5", "wd_units": "Q100995", "is_numeric_answer": true, "property": "P2067", "is_single_answer": true, "answers": [{"lexicalized": "> 1 and <= 181", "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [2, 181]}, {"lexicalized": "> 181 and <= 195", "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [182, 195]}, {"lexicalized": "> 195 and <= 210", "gt_surprise": 0.15384615384615385, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [196, 210]}, {"lexicalized": "> 210 and <= 240", "gt_surprise": 0.4230769230769231, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [211, 240]}, {"lexicalized": "> 240", "gt_surprise": 0.4230769230769231, "truth_value_wd": true, "truth_value_fact_checked": true, "numeric_bounds": [241, null]}]}, {"lexicalized": "What political party/parties has Donald Trump been a member of?", "entity": "Q22686", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P102", "is_single_answer": false, "answers": [{"lexicalized": "Democratic Party", "qnodes": ["Q29552"], "gt_surprise": 0.6153846153846154, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Republican Party", "qnodes": ["Q29468"], "gt_surprise": 1.0, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Communist Party of the Soviet Union", "qnodes": ["Q79854"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "National Socialist German Workers' Party", "qnodes": ["Q7320"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Social Democratic Party of Germany", "qnodes": ["Q49768"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has John Cena had?", "entity": "Q44437", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Musician", "qnodes": ["Q639669"], "gt_surprise": 0.38461538461538464, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Voice Actor", "qnodes": ["Q2405480"], "gt_surprise": 0.8461538461538461, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Writer", "qnodes": ["Q36180"], "gt_surprise": 0.11538461538461539, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Politician", "qnodes": ["Q82955"], "gt_surprise": 0.15384615384615385, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Chess Player", "qnodes": ["Q10873124"], "gt_surprise": 0.038461538461538464, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What sport(s) has John Cena participated in?", "entity": "Q44437", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P641", "is_single_answer": false, "answers": [{"lexicalized": "American Football", "qnodes": ["Q41323"], "gt_surprise": 0.07692307692307693, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Baseball", "qnodes": ["Q5369"], "gt_surprise": 0.11538461538461539, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Amateur Wrestling", "qnodes": ["Q838089"], "gt_surprise": 0.6923076923076923, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Boxing", "qnodes": ["Q32112"], "gt_surprise": 0.34615384615384615, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Rugby", "qnodes": ["Q5378"], "gt_surprise": 0.15384615384615385, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has Kanye West had?", "entity": "Q15935", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Architect", "qnodes": ["Q42973"], "gt_surprise": 0.0, "truth_value_wd": true, "truth_value_fact_checked": false}, {"lexicalized": "Film Director", "qnodes": ["Q2526255"], "gt_surprise": 0.3076923076923077, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Politician", "qnodes": ["Q82955"], "gt_surprise": 0.5, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Singer", "qnodes": ["Q177220"], "gt_surprise": 1.0, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Sport Cyclist", "qnodes": ["Q2309784"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What occupation(s) has LeBron James had?", "entity": "Q36159", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Television Actor", "qnodes": ["Q10798782"], "gt_surprise": 0.5, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Basketball Player", "qnodes": ["Q3665646"], "gt_surprise": 1.0, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Screenwriter", "qnodes": ["Q28389"], "gt_surprise": 0.11538461538461539, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Researcher", "qnodes": ["Q1650915"], "gt_surprise": 0.038461538461538464, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Writer", "qnodes": ["Q36180"], "gt_surprise": 0.15384615384615385, "truth_value_wd": false, "truth_value_fact_checked": true}]}, {"lexicalized": "What occupation(s) did Leonardo Da Vinci have?", "entity": "Q762", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P106", "is_single_answer": false, "answers": [{"lexicalized": "Diplomat", "qnodes": ["Q193391"], "gt_surprise": 0.23076923076923078, "truth_value_wd": true, "truth_value_fact_checked": false}, {"lexicalized": "Zoologist", "qnodes": ["Q350979"], "gt_surprise": 0.2692307692307692, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Chemist", "qnodes": ["Q593644"], "gt_surprise": 0.46153846153846156, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Painter", "qnodes": ["Q1028181"], "gt_surprise": 1.0, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Engineer", "qnodes": ["Q81096"], "gt_surprise": 0.8076923076923077, "truth_value_wd": true, "truth_value_fact_checked": true}]}, {"lexicalized": "What language(s) did Ruth Bader Ginsburg speak, write, or sign?", "entity": "Q11116", "class": "Q5", "wd_units": null, "is_numeric_answer": false, "property": "P1412", "is_single_answer": false, "answers": [{"lexicalized": "Swedish", "qnodes": ["Q9027"], "gt_surprise": 0.038461538461538464, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "English", "qnodes": ["Q1860"], "gt_surprise": 0.9230769230769231, "truth_value_wd": false, "truth_value_fact_checked": true}, {"lexicalized": "Russian", "qnodes": ["Q7737"], "gt_surprise": 0.07692307692307693, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "French", "qnodes": ["Q150"], "gt_surprise": 0.5384615384615384, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "German", "qnodes": ["Q188"], "gt_surprise": 0.4230769230769231, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What is the life expectancy in years of Australia circa. 2016?", "entity": "Q408", "class": "Q3624078", "wd_units": "Q577", "is_numeric_answer": true, "property": "P2250", "is_single_answer": true, "answers": [{"lexicalized": "76.6 to 85.4", "gt_surprise": 0.3076923076923077, "truth_value_wd": true, "truth_value_fact_checked": true, "numeric_bounds": [76.6, 85.4]}, {"lexicalized": "63.3 to 69.9", "gt_surprise": 0.11538461538461539, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [63.3, 69.9]}, {"lexicalized": "70.2 to 73.8", "gt_surprise": 0.2692307692307692, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [70.2, 73.8]}, {"lexicalized": "51.8 to 63.2", "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [51.8, 63.2]}, {"lexicalized": "73.9 to 76.6", "gt_surprise": 0.3076923076923077, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [73.9, 76.6]}]}, {"lexicalized": "What is the retirement age in Colombia? The answer for either men or women will be accepted.", "entity": "Q739", "class": "Q3624078", "wd_units": "Q24564698", "is_numeric_answer": true, "property": "P3001", "is_single_answer": true, "answers": [{"lexicalized": "55.0 to 60.0", "gt_surprise": 0.2692307692307692, "truth_value_wd": true, "truth_value_fact_checked": true, "numeric_bounds": [55.0, 60.0]}, {"lexicalized": "62.5 to 65.0", "gt_surprise": 0.38461538461538464, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [62.5, 65.0]}, {"lexicalized": "60.0 to 62.5", "gt_surprise": 0.19230769230769232, "truth_value_wd": true, "truth_value_fact_checked": true, "numeric_bounds": [60.0, 62.5]}, {"lexicalized": "65.25 to 67.0", "gt_surprise": 0.15384615384615385, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [65.25, 67.0]}]}, {"lexicalized": "What percentage of the territory of Canada inside its coast line and international boundaries is water?", "entity": "Q16", "class": "Q3624078", "wd_units": "Q11229", "is_numeric_answer": true, "property": "P2927", "is_single_answer": true, "answers": [{"lexicalized": "8.4 to 27.9", "gt_surprise": 0.4230769230769231, "truth_value_wd": true, "truth_value_fact_checked": true, "numeric_bounds": [8.4, 27.9]}, {"lexicalized": "1.5 to 2.5", "gt_surprise": 0.07692307692307693, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [1.5, 2.5]}, {"lexicalized": "0.0 to 0.2", "gt_surprise": 0.038461538461538464, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [0.0, 0.2]}, {"lexicalized": "2.6 to 5.7", "gt_surprise": 0.4230769230769231, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [2.6, 5.7]}, {"lexicalized": "0.3 to 1.4", "gt_surprise": 0.038461538461538464, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [0.3, 1.4]}]}, {"lexicalized": "Which entity or entities is/are depicted in the painting \"Mona Lisa\"?", "entity": "Q12418", "class": "Q3305213", "wd_units": null, "is_numeric_answer": false, "property": "P180", "is_single_answer": false, "answers": [{"lexicalized": "Bridge", "qnodes": ["Q12280"], "gt_surprise": 0.19230769230769232, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Mountain", "qnodes": ["Q8502"], "gt_surprise": 0.4230769230769231, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Sky", "qnodes": ["Q527"], "gt_surprise": 0.5769230769230769, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Landscape", "qnodes": ["Q107425"], "gt_surprise": 0.6153846153846154, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Virgin Mary", "qnodes": ["Q345"], "gt_surprise": 0.3076923076923077, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "Which genre(s) is the painting \"Guernica\" considered?", "entity": "Q175036", "class": "Q3305213", "wd_units": null, "is_numeric_answer": false, "property": "P136", "is_single_answer": false, "answers": [{"lexicalized": "History Painting", "qnodes": ["Q742333"], "gt_surprise": 0.7692307692307693, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Portrait", "qnodes": ["Q134307"], "gt_surprise": 0.11538461538461539, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Cityscape", "qnodes": ["Q1935974"], "gt_surprise": 0.2692307692307692, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Landscape Art", "qnodes": ["Q191163"], "gt_surprise": 0.19230769230769232, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Self-Portrait", "qnodes": ["Q192110"], "gt_surprise": 0.0, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "Which materials were used in the painting \"The Scream\"?", "entity": "Q18891156", "class": "Q3305213", "wd_units": null, "is_numeric_answer": false, "property": "P186", "is_single_answer": false, "answers": [{"lexicalized": "Cardboard", "qnodes": ["Q389782"], "gt_surprise": 0.07692307692307693, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Tempera", "qnodes": ["Q175166"], "gt_surprise": 0.038461538461538464, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Oil Paint", "qnodes": ["Q296955"], "gt_surprise": 1.0, "truth_value_wd": false, "truth_value_fact_checked": true}, {"lexicalized": "Paper", "qnodes": ["Q11472"], "gt_surprise": 0.07692307692307693, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Canvas", "qnodes": ["Q12321255", "Q4259259"], "gt_surprise": 0.8076923076923077, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "Which genre(s) is the film \"The Princess Bride\" considered?", "entity": "Q506418", "class": "Q11424", "wd_units": null, "is_numeric_answer": false, "property": "P136", "is_single_answer": false, "answers": [{"lexicalized": "Film Based on a Novel", "qnodes": ["Q52207399"], "gt_surprise": 0.4230769230769231, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Romantic Comedy", "qnodes": ["Q860626"], "gt_surprise": 0.6923076923076923, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Fantasy Film", "qnodes": ["Q157394"], "gt_surprise": 0.6153846153846154, "truth_value_wd": true, "truth_value_fact_checked": true}, {"lexicalized": "Drama", "qnodes": ["Q130232"], "gt_surprise": 0.11538461538461539, "truth_value_wd": false, "truth_value_fact_checked": false}, {"lexicalized": "Musical Film", "qnodes": ["Q842256"], "gt_surprise": 0.11538461538461539, "truth_value_wd": false, "truth_value_fact_checked": false}]}, {"lexicalized": "What was the total revenue in euros of the business \"Adidas\" circa. 2014?", "entity": "Q3895", "class": "Q4830453", "wd_units": "Q4916", "is_numeric_answer": true, "property": "P2139", "is_single_answer": true, "answers": [{"lexicalized": "1 to 108,589,000", "gt_surprise": 0.0, "truth_value_wd": true, "truth_value_fact_checked": false, "numeric_bounds": [1, 108589000]}, {"lexicalized": "438,000,000 to 1,590,000,000", "gt_surprise": 0.4230769230769231, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [438000000, 1590000000]}, {"lexicalized": "113,000,000 to 427,800,000", "gt_surprise": 0.19230769230769232, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [113000000, 427800000]}, {"lexicalized": "6,764,000,000 to 217,267,000,000", "gt_surprise": 0.15384615384615385, "truth_value_wd": false, "truth_value_fact_checked": true, "numeric_bounds": [6764000000, 217267000000]}, {"lexicalized": "1,610,000,000 to 6,745,000,000", "gt_surprise": 0.23076923076923078, "truth_value_wd": false, "truth_value_fact_checked": false, "numeric_bounds": [1610000000, 6745000000]}]}]
+[
+    {
+        "lexicalized": "What language(s) does Vladimir Putin speak, write, or sign with?",
+        "entity": "Q7747",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P1412",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "English",
+                "qnodes": [
+                    "Q1860"
+                ],
+                "gt_surprise": 0.5,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "German",
+                "qnodes": [
+                    "Q188"
+                ],
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Russian",
+                "qnodes": [
+                    "Q7737"
+                ],
+                "gt_surprise": 0.038461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Swedish",
+                "qnodes": [
+                    "Q9027"
+                ],
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Spanish",
+                "qnodes": [
+                    "Q1321"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has John Oliver had?",
+        "entity": "Q1701254",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Film Actor",
+                "qnodes": [
+                    "Q10800557"
+                ],
+                "gt_surprise": 0.6153846153846154,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Writer",
+                "qnodes": [
+                    "Q36180"
+                ],
+                "gt_surprise": 0.34615384615384615,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Television Actor",
+                "qnodes": [
+                    "Q10798782"
+                ],
+                "gt_surprise": 0.5384615384615384,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Television Presenter",
+                "qnodes": [
+                    "Q947873"
+                ],
+                "gt_surprise": 0.15384615384615385,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Film Producer",
+                "qnodes": [
+                    "Q3282637"
+                ],
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "Please select the country or countries in which Roger Federer possesses citizenship",
+        "entity": "Q1426",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P27",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "South Africa",
+                "qnodes": [
+                    "Q258"
+                ],
+                "gt_surprise": 0.6923076923076923,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Switzerland",
+                "qnodes": [
+                    "Q39"
+                ],
+                "gt_surprise": 0.34615384615384615,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "South Korea",
+                "qnodes": [
+                    "Q884"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "France",
+                "qnodes": [
+                    "Q142"
+                ],
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "United States of America",
+                "qnodes": [
+                    "Q30"
+                ],
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "How many children does Arnold Schwarzenegger have?",
+        "entity": "Q2685",
+        "class": "Q5",
+        "wd_units": "",
+        "is_numeric_answer": true,
+        "property": "P1971",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "2 or fewer",
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    null,
+                    2
+                ]
+            },
+            {
+                "lexicalized": "3",
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    3,
+                    3
+                ]
+            },
+            {
+                "lexicalized": "4",
+                "gt_surprise": 0.6153846153846154,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    4,
+                    4
+                ]
+            },
+            {
+                "lexicalized": "5 or more",
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    5,
+                    null
+                ]
+            }
+        ]
+    },
+    {
+        "lexicalized": "What is Boris Johnson's place of birth?",
+        "entity": "Q180589",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P19",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "New York City",
+                "qnodes": [
+                    "Q60"
+                ],
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Paris",
+                "qnodes": [
+                    "Q90"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Rome",
+                "qnodes": [
+                    "Q220"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Hamburg",
+                "qnodes": [
+                    "Q1055"
+                ],
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "London",
+                "qnodes": [
+                    "Q84"
+                ],
+                "gt_surprise": 0.3076923076923077,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has Eminem had?",
+        "entity": "Q5608",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Author",
+                "qnodes": [
+                    "Q482980"
+                ],
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Film Producer",
+                "qnodes": [
+                    "Q3282637"
+                ],
+                "gt_surprise": 0.46153846153846156,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Entrepreneur",
+                "qnodes": [
+                    "Q131524"
+                ],
+                "gt_surprise": 0.5384615384615384,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Singer-songwriter",
+                "qnodes": [
+                    "Q488205"
+                ],
+                "gt_surprise": 0.038461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Painter",
+                "qnodes": [
+                    "Q1028181"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has George W. Bush had?",
+        "entity": "Q207",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Rugby Union Player",
+                "qnodes": [
+                    "Q14089670"
+                ],
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Politician",
+                "qnodes": [
+                    "Q82955"
+                ],
+                "gt_surprise": 0.038461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Military Officer",
+                "qnodes": [
+                    "Q189290"
+                ],
+                "gt_surprise": 0.46153846153846156,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Painter",
+                "qnodes": [
+                    "Q1028181"
+                ],
+                "gt_surprise": 0.6153846153846154,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Singer",
+                "qnodes": [
+                    "Q177220"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has Beyonc\u00e9 had?",
+        "entity": "Q36153",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Model",
+                "qnodes": [
+                    "Q4610556"
+                ],
+                "gt_surprise": 0.4230769230769231,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Voice Actor",
+                "qnodes": [
+                    "Q2405480"
+                ],
+                "gt_surprise": 0.5384615384615384,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Entrepreneur",
+                "qnodes": [
+                    "Q131524"
+                ],
+                "gt_surprise": 0.34615384615384615,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Singer-songwriter",
+                "qnodes": [
+                    "Q488205"
+                ],
+                "gt_surprise": 0.038461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Dancer",
+                "qnodes": [
+                    "Q5716684"
+                ],
+                "gt_surprise": 0.2692307692307692,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            }
+        ]
+    },
+    {
+        "lexicalized": "What is Donald Trump's mass in pounds circa. 2019?",
+        "entity": "Q22686",
+        "class": "Q5",
+        "wd_units": "Q100995",
+        "is_numeric_answer": true,
+        "property": "P2067",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "> 1 and <= 181",
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    2,
+                    181
+                ]
+            },
+            {
+                "lexicalized": "> 181 and <= 195",
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    182,
+                    195
+                ]
+            },
+            {
+                "lexicalized": "> 195 and <= 210",
+                "gt_surprise": 0.8461538461538461,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    196,
+                    210
+                ]
+            },
+            {
+                "lexicalized": "> 210 and <= 240",
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    211,
+                    240
+                ]
+            },
+            {
+                "lexicalized": "> 240",
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    241,
+                    null
+                ]
+            }
+        ]
+    },
+    {
+        "lexicalized": "What political party/parties has Donald Trump been a member of?",
+        "entity": "Q22686",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P102",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Democratic Party",
+                "qnodes": [
+                    "Q29552"
+                ],
+                "gt_surprise": 0.38461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Republican Party",
+                "qnodes": [
+                    "Q29468"
+                ],
+                "gt_surprise": 0.0,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Communist Party of the Soviet Union",
+                "qnodes": [
+                    "Q79854"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "National Socialist German Workers' Party",
+                "qnodes": [
+                    "Q7320"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Social Democratic Party of Germany",
+                "qnodes": [
+                    "Q49768"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has John Cena had?",
+        "entity": "Q44437",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Musician",
+                "qnodes": [
+                    "Q639669"
+                ],
+                "gt_surprise": 0.6153846153846154,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Voice Actor",
+                "qnodes": [
+                    "Q2405480"
+                ],
+                "gt_surprise": 0.15384615384615385,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Writer",
+                "qnodes": [
+                    "Q36180"
+                ],
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Politician",
+                "qnodes": [
+                    "Q82955"
+                ],
+                "gt_surprise": 0.8461538461538461,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Chess Player",
+                "qnodes": [
+                    "Q10873124"
+                ],
+                "gt_surprise": 0.9615384615384616,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What sport(s) has John Cena participated in?",
+        "entity": "Q44437",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P641",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "American Football",
+                "qnodes": [
+                    "Q41323"
+                ],
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Baseball",
+                "qnodes": [
+                    "Q5369"
+                ],
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Amateur Wrestling",
+                "qnodes": [
+                    "Q838089"
+                ],
+                "gt_surprise": 0.3076923076923077,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Boxing",
+                "qnodes": [
+                    "Q32112"
+                ],
+                "gt_surprise": 0.6538461538461539,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Rugby",
+                "qnodes": [
+                    "Q5378"
+                ],
+                "gt_surprise": 0.8461538461538461,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has Kanye West had?",
+        "entity": "Q15935",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Architect",
+                "qnodes": [
+                    "Q42973"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Film Director",
+                "qnodes": [
+                    "Q2526255"
+                ],
+                "gt_surprise": 0.6923076923076923,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Politician",
+                "qnodes": [
+                    "Q82955"
+                ],
+                "gt_surprise": 0.5,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Singer",
+                "qnodes": [
+                    "Q177220"
+                ],
+                "gt_surprise": 0.0,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Sport Cyclist",
+                "qnodes": [
+                    "Q2309784"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) has LeBron James had?",
+        "entity": "Q36159",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Television Actor",
+                "qnodes": [
+                    "Q10798782"
+                ],
+                "gt_surprise": 0.5,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Basketball Player",
+                "qnodes": [
+                    "Q3665646"
+                ],
+                "gt_surprise": 0.0,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Screenwriter",
+                "qnodes": [
+                    "Q28389"
+                ],
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Researcher",
+                "qnodes": [
+                    "Q1650915"
+                ],
+                "gt_surprise": 0.9615384615384616,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Writer",
+                "qnodes": [
+                    "Q36180"
+                ],
+                "gt_surprise": 0.8461538461538461,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": true
+            }
+        ]
+    },
+    {
+        "lexicalized": "What occupation(s) did Leonardo Da Vinci have?",
+        "entity": "Q762",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P106",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Diplomat",
+                "qnodes": [
+                    "Q193391"
+                ],
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Zoologist",
+                "qnodes": [
+                    "Q350979"
+                ],
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Chemist",
+                "qnodes": [
+                    "Q593644"
+                ],
+                "gt_surprise": 0.5384615384615384,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Painter",
+                "qnodes": [
+                    "Q1028181"
+                ],
+                "gt_surprise": 0.0,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Engineer",
+                "qnodes": [
+                    "Q81096"
+                ],
+                "gt_surprise": 0.19230769230769232,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            }
+        ]
+    },
+    {
+        "lexicalized": "What language(s) did Ruth Bader Ginsburg speak, write, or sign?",
+        "entity": "Q11116",
+        "class": "Q5",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P1412",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Swedish",
+                "qnodes": [
+                    "Q9027"
+                ],
+                "gt_surprise": 0.9615384615384616,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "English",
+                "qnodes": [
+                    "Q1860"
+                ],
+                "gt_surprise": 0.07692307692307693,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Russian",
+                "qnodes": [
+                    "Q7737"
+                ],
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "French",
+                "qnodes": [
+                    "Q150"
+                ],
+                "gt_surprise": 0.46153846153846156,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "German",
+                "qnodes": [
+                    "Q188"
+                ],
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What is the life expectancy in years of Australia circa. 2016?",
+        "entity": "Q408",
+        "class": "Q3624078",
+        "wd_units": "Q577",
+        "is_numeric_answer": true,
+        "property": "P2250",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "76.6 to 85.4",
+                "gt_surprise": 0.6923076923076923,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    76.6,
+                    85.4
+                ]
+            },
+            {
+                "lexicalized": "63.3 to 69.9",
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    63.3,
+                    69.9
+                ]
+            },
+            {
+                "lexicalized": "70.2 to 73.8",
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    70.2,
+                    73.8
+                ]
+            },
+            {
+                "lexicalized": "51.8 to 63.2",
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    51.8,
+                    63.2
+                ]
+            },
+            {
+                "lexicalized": "73.9 to 76.6",
+                "gt_surprise": 0.6923076923076923,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    73.9,
+                    76.6
+                ]
+            }
+        ]
+    },
+    {
+        "lexicalized": "What is the retirement age in Colombia? The answer for either men or women will be accepted.",
+        "entity": "Q739",
+        "class": "Q3624078",
+        "wd_units": "Q24564698",
+        "is_numeric_answer": true,
+        "property": "P3001",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "55.0 to 60.0",
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    55.0,
+                    60.0
+                ]
+            },
+            {
+                "lexicalized": "62.5 to 65.0",
+                "gt_surprise": 0.6153846153846154,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    62.5,
+                    65.0
+                ]
+            },
+            {
+                "lexicalized": "60.0 to 62.5",
+                "gt_surprise": 0.8076923076923077,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    60.0,
+                    62.5
+                ]
+            },
+            {
+                "lexicalized": "65.25 to 67.0",
+                "gt_surprise": 0.8461538461538461,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    65.25,
+                    67.0
+                ]
+            }
+        ]
+    },
+    {
+        "lexicalized": "What percentage of the territory of Canada inside its coast line and international boundaries is water?",
+        "entity": "Q16",
+        "class": "Q3624078",
+        "wd_units": "Q11229",
+        "is_numeric_answer": true,
+        "property": "P2927",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "8.4 to 27.9",
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    8.4,
+                    27.9
+                ]
+            },
+            {
+                "lexicalized": "1.5 to 2.5",
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    1.5,
+                    2.5
+                ]
+            },
+            {
+                "lexicalized": "0.0 to 0.2",
+                "gt_surprise": 0.9615384615384616,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    0.0,
+                    0.2
+                ]
+            },
+            {
+                "lexicalized": "2.6 to 5.7",
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    2.6,
+                    5.7
+                ]
+            },
+            {
+                "lexicalized": "0.3 to 1.4",
+                "gt_surprise": 0.9615384615384616,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    0.3,
+                    1.4
+                ]
+            }
+        ]
+    },
+    {
+        "lexicalized": "Which entity or entities is/are depicted in the painting \"Mona Lisa\"?",
+        "entity": "Q12418",
+        "class": "Q3305213",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P180",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Bridge",
+                "qnodes": [
+                    "Q12280"
+                ],
+                "gt_surprise": 0.8076923076923077,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Mountain",
+                "qnodes": [
+                    "Q8502"
+                ],
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Sky",
+                "qnodes": [
+                    "Q527"
+                ],
+                "gt_surprise": 0.4230769230769231,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Landscape",
+                "qnodes": [
+                    "Q107425"
+                ],
+                "gt_surprise": 0.38461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Virgin Mary",
+                "qnodes": [
+                    "Q345"
+                ],
+                "gt_surprise": 0.6923076923076923,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "Which genre(s) is the painting \"Guernica\" considered?",
+        "entity": "Q175036",
+        "class": "Q3305213",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P136",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "History Painting",
+                "qnodes": [
+                    "Q742333"
+                ],
+                "gt_surprise": 0.23076923076923078,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Portrait",
+                "qnodes": [
+                    "Q134307"
+                ],
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Cityscape",
+                "qnodes": [
+                    "Q1935974"
+                ],
+                "gt_surprise": 0.7307692307692307,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Landscape Art",
+                "qnodes": [
+                    "Q191163"
+                ],
+                "gt_surprise": 0.8076923076923077,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Self-Portrait",
+                "qnodes": [
+                    "Q192110"
+                ],
+                "gt_surprise": 1.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "Which materials were used in the painting \"The Scream\"?",
+        "entity": "Q18891156",
+        "class": "Q3305213",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P186",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Cardboard",
+                "qnodes": [
+                    "Q389782"
+                ],
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Tempera",
+                "qnodes": [
+                    "Q175166"
+                ],
+                "gt_surprise": 0.9615384615384616,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Oil Paint",
+                "qnodes": [
+                    "Q296955"
+                ],
+                "gt_surprise": 0.0,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Paper",
+                "qnodes": [
+                    "Q11472"
+                ],
+                "gt_surprise": 0.9230769230769231,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Canvas",
+                "qnodes": [
+                    "Q12321255",
+                    "Q4259259"
+                ],
+                "gt_surprise": 0.19230769230769232,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "Which genre(s) is the film \"The Princess Bride\" considered?",
+        "entity": "Q506418",
+        "class": "Q11424",
+        "wd_units": null,
+        "is_numeric_answer": false,
+        "property": "P136",
+        "is_single_answer": false,
+        "answers": [
+            {
+                "lexicalized": "Film Based on a Novel",
+                "qnodes": [
+                    "Q52207399"
+                ],
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Romantic Comedy",
+                "qnodes": [
+                    "Q860626"
+                ],
+                "gt_surprise": 0.3076923076923077,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Fantasy Film",
+                "qnodes": [
+                    "Q157394"
+                ],
+                "gt_surprise": 0.38461538461538464,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": true
+            },
+            {
+                "lexicalized": "Drama",
+                "qnodes": [
+                    "Q130232"
+                ],
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            },
+            {
+                "lexicalized": "Musical Film",
+                "qnodes": [
+                    "Q842256"
+                ],
+                "gt_surprise": 0.8846153846153846,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false
+            }
+        ]
+    },
+    {
+        "lexicalized": "What was the total revenue in euros of the business \"Adidas\" circa. 2014?",
+        "entity": "Q3895",
+        "class": "Q4830453",
+        "wd_units": "Q4916",
+        "is_numeric_answer": true,
+        "property": "P2139",
+        "is_single_answer": true,
+        "answers": [
+            {
+                "lexicalized": "1 to 108,589,000",
+                "gt_surprise": 1.0,
+                "truth_value_wd": true,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    1,
+                    108589000
+                ]
+            },
+            {
+                "lexicalized": "438,000,000 to 1,590,000,000",
+                "gt_surprise": 0.5769230769230769,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    438000000,
+                    1590000000
+                ]
+            },
+            {
+                "lexicalized": "113,000,000 to 427,800,000",
+                "gt_surprise": 0.8076923076923077,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    113000000,
+                    427800000
+                ]
+            },
+            {
+                "lexicalized": "6,764,000,000 to 217,267,000,000",
+                "gt_surprise": 0.8461538461538461,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": true,
+                "numeric_bounds": [
+                    6764000000,
+                    217267000000
+                ]
+            },
+            {
+                "lexicalized": "1,610,000,000 to 6,745,000,000",
+                "gt_surprise": 0.7692307692307693,
+                "truth_value_wd": false,
+                "truth_value_fact_checked": false,
+                "numeric_bounds": [
+                    1610000000,
+                    6745000000
+                ]
+            }
+        ]
+    }
+]
