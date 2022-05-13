@@ -1,0 +1,363 @@
+Input.Article	Article.wd	Input.Fact	fact.wd	Input.Type	can't map to wd	in WD?	likely in profiles?	goodTrivia	knew	surprising
+A. P. J. Abdul Kalam	Q9513	A. P. J. Abdul Kalam is in the group of Indian aerospace engineers	P27=Q668,P106=Q10497074	ourMiddle		1	1	0	-2	0.4
+A. P. J. Abdul Kalam	Q9513	A. P. J. Abdul Kalam is in the group of Nuclear energy in India		ourTop	1	0	0	-0.2	-2	-0.2
+A. P. J. Abdul Kalam	Q9513	A. P. J. Abdul Kalam is in the group of Recipients of the Padma Vibhushan	P166=Q932650	ourBottom		1	0	-0.6	-2	-0.6
+A. P. J. Abdul Kalam	Q9513	On 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed that they would nominate Kalam for the post of President, and both the Samajwadi Party and the Nationalist Congress Party backed his candidacy.		baseline	1	0	0	-0.4	-2	-0.2
+Abraham Lincoln	Q91	Abraham Lincoln is in the group of Presidents of the United States	P39=Q11696	ourBottom		1	0	-1.8	1.2	-1.8
+Abraham Lincoln	Q91	Abraham Lincoln is in the group of Smallpox survivors		ourTop	1	0	0	1.6	-2	1.6
+Abraham Lincoln	Q91	There was also the Great Moments with Mr. Lincoln exhibit in Disneyland, and the Hall of Presidents at Walt Disney World, which had to do with Walt Disney admiring Lincoln ever since he was a little boy.		baseline	1	0	0	1.4	-2	1.4
+Akshay Kumar	Q233748	Akshay Kumar is in the group of Canadian game show hosts	P27=Q16,P106=Q22662561	ourTop		0	0	-0.6	-2	-0.4
+Akshay Kumar	Q233748	Akshay Kumar is in the group of Indian stunt performers	P27=Q668,P106=Q465501	ourMiddle		0	0	-0.6	-2	-0.6
+Akshay Kumar	Q233748	Joker was reportedly promoted as Kumar's 100th film, but later Akshay Kumar clarified that the 100th film landmark had been crossed long before he even signed up for Joker.		baseline	1	0	0	0.2	-2	0.2
+Alan Rickman	Q106481	Alan Rickman is in the group of 20th-century English male actors	cent20,P27=Q145,P21=Q6581097,P106=Q33999	ourMiddle		1	2	-1.4	2	-1.6
+Alan Rickman	Q106481	Alan Rickman is in the group of Alumni of Chelsea College of Art & Design	P69=Q860450	ourTop		1	0	1	-2	0.6
+Alan Rickman	Q106481	Alan Rickman is in the group of English male voice actors	P27=Q145,P21=Q6581097,P106=Q2405480	ourBottom		1	1	-1.2	1.2	-1.2
+Alan Rickman	Q106481	In 1965, at the age of 19, Rickman met 18-year-old Rima Horton, who became his girlfriend and would later be a Labour Party councillor on the Kensington and Chelsea London Borough Council (1986–2006) and an economics lecturer at the nearby Kingston University.		baseline	1	0	0	0.6	-2	0.4
+Albert Einstein	Q937	Albert Einstein is in the group of 20th-century physicists	cent20,P106=Q169470	ourBottom		1	0	-1.4	2	-2
+Albert Einstein	Q937	Albert Einstein is in the group of American Zionists	P27=P30,P106=Q12718299	ourTop		0	0	0.25	-0.4	0.4
+Albert Einstein	Q937	Albert Einstein is in the group of German Nobel laureates		ourMiddle	1	1	0	0.2	-0.4	-0.6
+Albert Einstein	Q937	Einstein offered and was called on to give judgments and opinions on matters often unrelated to theoretical physics or mathematics.		baseline	1	0	0	-0.2	-0.4	0.6
+Alec Baldwin	Q170572	Alec Baldwin is in the group of 20th-century American male actors	cent20,P27=Q30,P21=Q6581097,P106=Q33999	ourBottom		1	2	-1.8	2	-1.8
+Alec Baldwin	Q170572	Alec Baldwin is in the group of MSNBC program hosts		ourTop	1	0	0	0.2	-0.4	-0.2
+Alec Baldwin	Q170572	Alec Baldwin is in the group of Outstanding Performance by a Lead Actor in a Comedy Series Primetime Emmy Award winners	P166=Q989442	ourMiddle		1	0	-0.8	0.4	-1
+Alec Baldwin	Q170572	Baldwin said in a 2006 interview with The New York Times that if he did become involved in electoral politics, he would prefer to run for Governor of New York.		baseline	1	0	0	1.2	-2	1.2
+Alexander Hamilton	Q178903	Alexander Hamilton is in the group of Inspectors General of the United States Army	P39=Q104238320	ourTop		0	0	-0.2	-0.4	-0.2
+Alexander Hamilton	Q178903	Alexander Hamilton is in the group of New York militiamen in the American Revolution		ourMiddle	1	0	0	-0.2	-0.4	-0.8
+Alicia Vikander	Q439314	Alicia Amanda Vikander (born 3 October 1988) is a Swedish actress, producer and dancer.	P27=Q34,P21=Q6581072,P106=Q33999,P106=Q3282637,P106=Q5716684	baseline		1	1	-0.8	-1.2	-0.8
+Alicia Vikander	Q439314	Alicia Vikander is in the group of Best Actress Empire Award winners	P166=Q3724813	ourBottom		0		0	-2	-0.8
+Alicia Vikander	Q439314	Alicia Vikander is in the group of Outstanding Performance by a Female Actor in a Supporting Role Screen Actors Guild Award winners	P166=Q1320315	ourMiddle		0		-1.2	-1.2	-1.2
+Alicia Vikander	Q439314	Alicia Vikander is in the group of Royal Swedish Ballet dancers	P69=Q2742632	ourTop		1	0	0.2	-2	0.2
+Aly Raisman	Q238663	Aly Raisman is in the group of American female artistic gymnasts	P27=Q30,P21=Q6581072,P106=Q13381572	ourBottom		1	0	-1.6	-0.4	-1.6
+Aly Raisman	Q238663	Aly Raisman is in the group of Jewish gymnasts	P140=Q9268,P106=Q16947675	ourMiddle		2	0	-1.2	0.4	-1.2
+Aly Raisman	Q238663	Aly Raisman is in the group of Olympic bronze medalists for the United States		ourTop	1	0	0	-0.6	-1.2	-0.8
+Aly Raisman	Q238663	Raisman began gymnastics when she was 2 years old.		baseline	1	0	0	0.4	-2	-0.2
+Amber Heard	Q229166	Amber Heard is in the group of 21st-century American actresses	cent21,P27=Q30,P21=Q6581072,P106=Q33999	ourBottom		2	2	-1.4	2	-1.4
+Amber Heard	Q229166	Amber Heard is in the group of American television actresses	P27=Q30,P21=Q6581072,P106=Q10798782	ourMiddle		1	3	-1.5	2	-1
+Amber Heard	Q229166	Amber Heard is in the group of Objectivists		ourTop	1	0	0	1.2	-2	1.2
+Amber Heard	Q229166	Heard is involved in social activism for causes such as LGBT rights and is a supporter of Habitat for Humanity; Girl Up, a United Nations Foundation campaign; The Art of Elysium; and Amnesty International.		baseline	1	0	0	-0.4	-2	0.2
+Andy Murray	Q10125	Andy Murray is in the group of Clan Murray		ourTop	1	0	0	-0.2	-1.2	-0.2
+Andy Murray	Q10125	Andy Murray is in the group of Hopman Cup competitors		ourBottom	1	0	0	-0.4	-2	-0.4
+Andy Murray	Q10125	Andy Murray is in the group of Olympic medalists in tennis		ourMiddle	1	1	0	-0.4	-0.4	-0.8
+Andy Murray	Q10125	Following the Miami Masters, where he reached the semifinals, Murray became the world No. 10 on 16 April.		baseline	1	0	0	-0.8	-2	-0.8
+Ariana Grande	Q151892	Ariana Grande is in the group of American female pop singers	P27=Q30,P21=Q6581072,P106=Q177220,P136=Q37073	ourMiddle		1	3	-1.2	1.2	-1.2
+Ariana Grande	Q151892	Ariana Grande is in the group of Sex-positive feminists		ourTop	1	0	0	-0.8	-1.2	-0.4
+Arnold Schwarzenegger	Q2685	Arnold Schwarzenegger is in the group of American athlete-politicians	P27=Q30,P106=Q15982795|P106=Q23845879,P106=Q82955 	ourMiddle		2	3	-1	2	-1.4
+Arnold Schwarzenegger	Q2685	Arnold Schwarzenegger is in the group of Austrian real estate businesspeople	P27=Q40,P106=Q519076,P106=Q43845	ourTop		1		0	-1.2	0.6
+Ben Affleck	Q483118	Ben Affleck is in the group of American poker players	P27=Q30,P106=Q15295720	ourTop		1	0	0.8	0.4	0.4
+Ben Affleck	Q483118	Ben Affleck is in the group of Directors Guild of America Award winners	P166=Q1111310	ourMiddle		1	0	-0.8	-1.2	-0.4
+Ben Affleck	Q483118	While Affleck had high SAT scores, he was an unfocused high school student with poor attendance.		baseline	1	0	0	1	-2	1
+Bernie Sanders	Q359442	As an independent, Sanders worked out a deal with the Senate Democratic leadership in which he agreed to vote with the Democrats on all procedural matters, except with permission from Democratic whip Dick Durbin (a request that is rarely made or granted).		baseline	1	0	0	0	-0.4	0
+Bernie Sanders	Q359442	Bernie Sanders is in the group of American filmmakers	P27=Q30,P106=Q1414443|P106=Q2526255	ourTop		0	0	0.6	-2	0.6
+Bernie Sanders	Q359442	Bernie Sanders is in the group of Critics of Islamophobia		ourMiddle	1	0	0	-1	0.4	-1
+Bernie Sanders	Q359442	Bernie Sanders is in the group of Vermont Independents	P102=Q327591,_	ourBottom	1	1	0	-0.8	1.2	-0.8
+Beyonce	Q36153	Beyonce is in the group of American rhythm and blues singer-songwriters	P27=Q30,P136=Q45981,P106=Q488205	ourBottom		1	3	-1	1.2	-1.8
+Beyonce	Q36153	Beyonce is in the group of Columbia Records artists	P264=Q183387	ourMiddle		1	0	-1.6	1.2	-1.6
+Beyonce	Q36153	Beyonce is in the group of Shoe designers	P106=Q67175841	ourTop		2	0	-0.4	-1.2	-1
+Beyonce	Q36153	On January 7, 2012, Beyonce gave birth to her first child, a daughter, Blue Ivy Carter, at Lenox Hill Hospital in New York.		baseline	1	0	0	0	-0.4	-0.2
+Bill Gates	Q5284	According to the Bloomberg Billionaires Index, Gates was the world's highest-earning billionaire in 2013, as his fortune increased by US$15.8 billion to US$78.5 billion.		baseline	1	0	0	0	-1.2	-0.6
+Bill Gates	Q5284	Bill Gates is in the group of Bill & Melinda Gates Foundation people	P108=Q655286	ourBottom		1	0	-1.6	2	-1.8
+Bill Gates	Q5284	Bill Gates is in the group of Directors of Berkshire Hathaway		ourTop	1	1	0	0.4	-2	0.6
+Bill Gates	Q5284	Bill Gates is in the group of Personal computing		ourMiddle	1	0	0	-1.8	2	-2
+Bob Marley	Q409	Bob Marley appeared at the Stanley Theater (now called The Benedum Center For The Performing Arts) in Pittsburgh, Pennsylvania, on 23 September 1980; it would be his last concert.		baseline	1	0	0	0.6	-2	0.2
+Bob Marley	Q409	Bob Marley is in the group of Colony of Jamaica people		ourMiddle	1	0	0	-1.4	1.2	-1.4
+Bob Marley	Q409	Bob Marley is in the group of People of Syrian-Jewish descent		ourTop	1	0	0	1.6	-2	1.8
+Bonnie and Clyde	Q219937	Bonnie and Clyde is in the group of Bank robbery		ourTop	1	0	0	-1.2	1.2	-1.2
+Bonnie and Clyde	Q219937	Bonnie and Clyde is in the group of Depression-era gangsters		ourMiddle	1	0	0	-1.6	2	-1.6
+Boris Johnson	Q180589	Boris Johnson is in the group of British Secretaries of State for Foreign and Commonwealth Affairs	P39=Q1371091	ourTop		1	0	-1	-0.4	-0.6
+Boris Johnson	Q180589	Boris Johnson is in the group of English people of Circassian descent		ourBottom	1	0	0	1	-2	0.4
+Boris Johnson	Q180589	Boris Johnson is in the group of The Times people		ourMiddle	1	0	0	-0.8	-2	0.2
+Boris Johnson	Q180589	Johnson has dual citizenship in both the United Kingdom and the United States, since he was born in New York City to English parents.	P27=Q145,P27=Q30,P19=Q60	baseline		2	2	1.2	-2	1
+Bradley Cooper	Q205707	Bradley Cooper is in the group of 20th-century American male actors	cent20,P27=Q30,P21=Q6581097,P106=Q33999	ourBottom		2	2	-1.4	2	-1.8
+Bradley Cooper	Q205707	Bradley Cooper is in the group of Georgetown Hoyas athletes		ourTop	1	0	0	1	-2	0.8
+Bradley Cooper	Q205707	Bradley Cooper is in the group of Male actors of Italian descent	P21=Q6581097,P106=Q33999,P172=Q50001	ourMiddle		0	0	-1	-2	-0.6
+Bradley Cooper	Q205707	Cooper has a B.A. in English from Georgetown University (1997) and an MFA in acting from Actors Studio Drama School at The New School (2000).		baseline	1	0	0	0.2	-1.2	0.2
+Britney Spears	Q11975	Britney Spears is in the group of American child singers	P27=Q30,P106=Q15966504	ourBottom		1	0	-1.8	1.2	-1.8
+Britney Spears	Q11975	Britney Spears is in the group of California people in fashion		ourTop		2	0	-1.2	-0.4	-1.2
+Britney Spears	Q11975	Britney Spears is in the group of Grammy Award winners	P166=_	ourMiddle		1	0	-1	0.4	-1.4
+Brock Lesnar	Q220556	Brock Lesnar is in the group of American football defensive linemen	P27=Q30,P106=Q19204627|P641=Q41323,_	ourMiddle		1	0	-0.2	-0.4	-0.4
+Brock Lesnar	Q220556	Brock Lesnar is in the group of American male professional wrestlers	P27=Q30,P21=Q6581097,P106=Q13474373	ourBottom		1	3	-1.6	1.2	-1.6
+Brock Lesnar	Q220556	Brock Lesnar is in the group of American mixed martial artists	P27=Q30,P106=Q11607585	ourTop		1	3	-1.8	1.2	-1.6
+Brock Lesnar	Q220556	In 2000, Lesnar signed with the World Wrestling Federation (WWF).		baseline		0	0	-0.8	1.2	-0.8
+Bruce Lee	Q16397	After attending Tak Sun School (several blocks from his home at 218 Nathan Road, Kowloon), Lee entered the primary school division of La Salle College at the age of 12.		baseline		0	0	0.2	-2	0
+Bruce Lee	Q16397	Bruce Lee is in the group of American martial artists	P27=Q30,P106=Q11124885	ourBottom		1	3	-0.8	2	-1.6
+Bruce Lee	Q16397	Bruce Lee is in the group of Green Hornet		ourTop		1	0	0.2	-1.2	-0.6
+Bruce Lee	Q16397	Bruce Lee is in the group of Hong Kong male film actors	_,P21=Q6581097,_	ourMiddle		1	0	-0.8	1.2	-0.8
+Caitlyn Jenner	Q365144	Caitlyn Jenner is in the group of 20th-century American racing drivers	cent20,P27=Q30,_	ourTop		1	0	1.4	-2	1
+Caitlyn Jenner	Q365144	Caitlyn Jenner is in the group of Former world record holders in athletics (track and field)		ourMiddle		1	0	-0.2	1.2	-0.8
+Caitlyn Jenner	Q365144	Caitlyn Jenner is in the group of Transgender and transsexual sportspeople		ourBottom		1	0	-1.6	1.2	-1.6
+Cara Delevingne	Q1395624	Cara Delevingne is in the group of English female models	P27=Q145,P21=Q6581072,P106=Q865851|P106=Q4610556	ourBottom		2	3	-1.4	0.4	-1.2
+Cara Delevingne	Q1395624	Cara Delevingne is in the group of Hulton family		ourTop		0	0	0.8	-2	0.2
+Cara Delevingne	Q1395624	Cara Delevingne is in the group of LGBT actresses		ourMiddle		0	0	-0.6	0.4	-1
+Cara Delevingne	Q1395624	Delevingne's performances have received mixed reviews, however she has had no formal coaching or training.		baseline		0	0	-0.6	-2	-0.6
+Chelsea Manning	Q298423	Chelsea Manning is in the group of 21st-century American criminals		ourMiddle	1	0	0	-1.2	-0.4	-1.2
+Chelsea Manning	Q298423	Chelsea Manning is in the group of Prisoners and detainees of the United States military		ourTop		0	0	-0.8	-0.4	-0.6
+Ciara	Q203223	Ciara has received praise for her stage presence and routines during live performances.		baseline		0	0	-1	-1.2	-1
+Ciara	Q203223	Ciara is in the group of African-American female dancers	P172=Q49085,P21=Q6581072,P106=Q5716684	ourTop		1	3	-1.4	1.2	-1.4
+Ciara	Q203223	Ciara is in the group of Ciara		ourBottom	1	0	0	-1.6	2	-1.6
+Ciara	Q203223	Ciara is in the group of World Music Awards winners	P166=_	ourMiddle		0	0	-1	-0.4	-1
+Clint Eastwood	Q43203	At the May1994 Cannes Film Festival Eastwood received France's Ordre des Arts et des Lettres medal, and on March 27, 1995, he was awarded the Irving G. Thalberg Memorial Award at the 67th Academy Awards.	P166=_,P166=_	baseline		0	0	1	-2	0.8
+Clint Eastwood	Q43203	Clint Eastwood is in the group of American jazz composers	P27=Q30,P136=Q8341,P106=Q36834	ourTop		2	0	1.4	-2	1.6
+Clint Eastwood	Q43203	Clint Eastwood is in the group of Screen Actors Guild Life Achievement Award	P166=_	ourMiddle		1	0	-0.2	0.4	-0.4
+Colonel Sanders	Q120450	By the time of Sanders' death, there were an estimated 6,000 KFC outlets in 48 countries worldwide, with $2 billion ($ billion today) of sales annually.		baseline		0	0	0.6	-2	0.6
+Colonel Sanders	Q120450	Colonel Sanders is in the group of American restaurateurs	P27=Q30,_	ourMiddle		1	0	-1.8	2	-1.8
+Colonel Sanders	Q120450	Colonel Sanders is in the group of KFC people		ourBottom		0	0	-1.6	2	-1.6
+Colonel Sanders	Q120450	Colonel Sanders is in the group of Teamsters		ourTop		0	0	0.6	-2	0.6
+Conor McGregor	Q5162259	Conor McGregor is in the group of Irish kickboxers	P27=Q27,P106=Q11296761	ourTop		1	3	-1	1.2	-1.4
+Conor McGregor	Q5162259	Conor McGregor is in the group of Male boxers	P21=Q6581097,P106=Q11338576	ourMiddle		1	3	-1.2	0.4	-0.8
+Conor McGregor	Q5162259	Conor McGregor is in the group of Ultimate Fighting Championship champions		ourBottom		0	0	-1.2	1.2	-1.6
+Conor McGregor	Q5162259	Prior to his next bout, McGregor met with Lorenzo Fertitta and signed a new mult-fight contract with the UFC.		baseline		0	0	-0.8	-2	-0.6
+Cristiano Ronaldo	Q11571	As his reputation rapidly grew from his time at Manchester United, Ronaldo signed many sponsorship deals, including with the U.S. sportswear company Nike.		baseline		2		-0.2	-0.4	-0.8
+Cristiano Ronaldo	Q11571	Cristiano Ronaldo is in the group of FIFA World Player of the Year winners		ourMiddle		1	0	-0.2	-0.4	-0.8
+Cristiano Ronaldo	Q11571	Cristiano Ronaldo is in the group of Portuguese male models	P27=Q45,P21=Q6581097,P106=Q4610556	ourTop		1	3	-0.6	0.4	-1
+Cristiano Ronaldo	Q11571	Cristiano Ronaldo is in the group of UEFA Euro 2016 players		ourBottom		1		-1.2	1.2	-1.2
+D. B. Cooper	Q348970	D. B. Cooper is in the group of 20th-century American criminals		ourTop	1	0	0	-0.8	0.4	-0.8
+D. B. Cooper	Q348970	D. B. Cooper is in the group of Hijackers		ourBottom		1	0	-0.8	1.2	-1
+Dan Aykroyd	Q105221	Dan Aykroyd is in the group of 20th-century American male actors	cent20,P27=Q30,P21=Q6581097,P106=Q33999	ourBottom		0	0	-1.4	2	-1.8
+Dan Aykroyd	Q105221	Dan Aykroyd is in the group of American male screenwriters	P27=Q30,P21=Q6581097,P106=Q28389	ourMiddle		0	0	-1.4	-0.4	-1.8
+Dan Aykroyd	Q105221	Dan Aykroyd is in the group of Westwood One (current)		ourTop		0	0	0.4	-2	-0.2
+Dan Aykroyd	Q105221	In the early 1980s, Aykroyd began work on a script for the film that eventually became Ghostbusters, inspired by his fascination with parapsychology.		baseline		0	0	0.8	-1.2	0.8
+David Bowie	Q5383	According to The Times, Bowie ruled out ever giving an interview again.		baseline		0	0	-0.2	-2	0.2
+David Bowie	Q5383	David Bowie is in the group of Grammy Award winners	P166=_	ourMiddle		1		-0.6	0.4	-1.4
+David Bowie	Q5383	David Bowie is in the group of Science Fiction Hall of Fame inductees		ourTop		1		1.4	-2	1.6
+David Bowie	Q5383	David Bowie is in the group of Virgin Records artists		ourBottom		1	3	-1	-0.4	-1.2
+David Cameron	Q192	David Cameron is in the group of Members of the Privy Council of the United Kingdom		ourMiddle		1	0	-0.4	-2	-0.4
+David Cameron	Q192	David Cameron is in the group of People educated at Heatherdown School		ourTop		1		0.6	-2	0.8
+Donald Trump	Q22686	Donald Trump is in the group of American education businesspeople		ourMiddle		0	0	-1	1.2	-1
+Donald Trump	Q22686	Donald Trump is in the group of WWE Hall of Fame		ourTop		1		1.8	-2	1.8
+Donald Trump	Q22686	Trump has claimed that his net worth is over ten billion dollars, whereas in 2015 Forbes estimated his net worth at 4.5 billion, and Bloomberg estimated it at 2.9 billion, with the discrepancies due in part to the uncertainty of appraised property values.		baseline		0	0	-0.2	-1.2	-0.2
+Drake (musician)	Q33240	Drake (musician) is in the group of 21st-century Canadian male actors	cent21,P27=Q16,P21=Q6581097,P106=Q33999	ourTop		2	2	-0.8	2	-0.8
+Drake (musician)	Q33240	Drake (musician) is in the group of Canadian pop singers	P27=Q16,P136=Q37073,P106=Q177220	ourMiddle		1	3	-1	-0.4	-1
+Drake (musician)	Q33240	Drake (musician) is in the group of Drake (rapper)		ourBottom		0	0	-1.8	2	-1.6
+Drake (musician)	Q33240	Drake was raised in two polarizing Toronto neighbourhoods; he lived on Weston Road in the city's working-class west end, until the sixth grade.		baseline		0	0	0.2	-1.2	0.4
+Dwyane Wade	Q31683	After breaking his own Miami Heat single-season scoring record, Wade gave the jersey he wore in that night's victory to 8-year-old Michael Stolzenberg, an avid Heat fan that had his hands and feet removed surgically due to a bacterial infection.		baseline		0	0	0.6	-2	0.8
+Dwyane Wade	Q31683	Dwyane Wade is in the group of Miami Heat players		ourBottom		1	0	-1.6	2	-1.8
+Dwyane Wade	Q31683	Dwyane Wade is in the group of Olympic bronze medalists for the United States		ourTop		0	0	-0.8	-1.2	-1.2
+Dwyane Wade	Q31683	Dwyane Wade is in the group of Shooting guards		ourMiddle		1		-1.6	1.2	-1.6
+Elizabeth I of England	Q7207	Elizabeth I of England is in the group of 16th-century female rulers	cent16,P21=Q6581072,_	ourBottom		2	3	-1.6	1.2	-1.6
+Elizabeth I of England	Q7207	Elizabeth I of England is in the group of 16th-century women writers		ourMiddle		2	0	0.6	-2	0.2
+Elizabeth I of England	Q7207	Elizabeth I of England is in the group of English women poets		ourTop		2	0	0	-2	0
+Ellen DeGeneres	Q7207	Ellen DeGeneres is in the group of 21st-century American writers	cent21,P27=Q30,_	ourMiddle		2	2	-1.8	-0.4	-1.4
+Ellen DeGeneres	Q7207	Ellen DeGeneres is in the group of American Idol participants		ourTop		0	0	-0.6	-0.4	-0.6
+Ellen DeGeneres	Q7207	Ellen DeGeneres is in the group of Lesbian actresses	_,P21=Q6581072,P106=Q33999,	ourBottom		1		-1	2	-1.2
+Elon Musk	Q317521	Elon Musk is in the group of American computer programmers	P27=Q30,_	ourMiddle		0	0	-1.6	-0.4	-1.4
+Elon Musk	Q317521	Elon Musk is in the group of People with acquired Canadian citizenship	_,P27=Q16	ourTop		2	2	0.8	-1.2	0.2
+Elon Musk	Q317521	Elon Musk is in the group of SpaceX people		ourBottom		1	0	-0.6	0.4	-0.4
+Elvis Presley	Q303	Elvis Presley is in the group of American rockabilly musicians	P27=Q30,_	ourBottom		1	0	-1.6	2	-1.6
+Elvis Presley	Q303	Elvis Presley is in the group of RCA Victor artists		ourMiddle		1	3	-0.6	-0.4	-1
+Elvis Presley	Q303	Elvis Presley is in the group of Tank personnel		ourTop		0	0	0.6	-2	0.4
+Eminem	Q5608	Eminem is in the group of American film producers	P27=Q30,P106=Q3282637	ourTop		1	1	0.2	-0.4	0.2
+Eminem	Q5608	Eminem is in the group of Eminem		ourBottom		0	0	-2	2	-2
+Eminem	Q5608	Eminem is in the group of World Music Awards winners	P166=_	ourMiddle		0	0	-1	-0.4	-1.4
+Eva Green	Q191644	Eva Green is in the group of Best Newcomer Empire Award winners	P166=_	ourBottom		1		-0.4	-2	-0.4
+Eva Green	Q191644	Eva Green is in the group of French people of Algerian-Jewish descent		ourTop		0	0	-0.4	-2	0
+Eva Green	Q191644	Eva Green is in the group of Jewish French actresses		ourMiddle		0	0	0.8	-1.2	0.2
+Eva Green	Q191644	Green has expressed interest in returning to the theatre.		baseline		0	0	-1.6	-2	-1.4
+Franklin D. Roosevelt	Q8007	Franklin D. Roosevelt is in the group of American Philatelic Society		ourTop		0	0	0.2	-1.2	0.2
+Franklin D. Roosevelt	Q8007	Franklin D. Roosevelt is in the group of People with poliomyelitis		ourMiddle		1		-0.4	-1.2	-0.2
+Franklin D. Roosevelt	Q8007	Franklin D. Roosevelt is in the group of Presidents of the United States	P39=Q11696	ourBottom		1	0	-1.6	2	-1.8
+Franklin D. Roosevelt	Q8007	To pay for increased government spending, in 1941 FDR proposed that Congress enact an income tax rate of 99.5% on all income over $100,000; when the proposal failed, he issued an executive order imposing an income tax of 100% on income over $25,000, which Congress rescinded.		baseline		0	0	0.8	-2	0.8
+Frederick the Great	Q33550	Frederick the Great is in the group of German classical composers	_,_,P106=Q36834	ourTop		2	0	0.4	-1.2	0.6
+Frederick the Great	Q33550	Frederick the Great is in the group of Kings of Prussia		ourMiddle		1	0	-1	-2	-0.6
+Gary Johnson	Q352123	Gary Johnson is in the group of American summiters of Mount Everest	P27=Q30,_	ourTop		1		0.6	-1.2	0.8
+Gary Johnson	Q352123	Gary Johnson is in the group of Republican Party state governors of the United States		ourMiddle		2	0	-1.6	0.4	-1.4
+Gary Johnson	Q352123	In the 2012 United States presidential election, Johnson received 0.99% of the popular vote, a total of 1,275,971 votes.		baseline	1	0	0	0.2	-1.2	-0.2
+Gaurav Tiwari	Q5527758	Gaurav Tiwari is in the group of Indian entertainers	P27=Q668,_	ourBottom		2	3	-1.6	-2	-1.2
+Gaurav Tiwari	Q5527758	Gaurav Tiwari is in the group of Indian male actors	P27=Q668,P21=Q6581097,P106=Q33999	ourMiddle		1	1	-1.4	-2	-1
+Gaurav Tiwari	Q5527758	Gaurav Tiwari is in the group of Indian male actors	P27=Q668,P21=Q6581097,P106=Q33999	ourTop		1	1	-0.8	-2	-1
+George H. W. Bush	Q5527758	George H. W. Bush is in the group of Presidents of the United States	P39=Q11696	ourBottom		1	0	-1.2	1.2	-1.2
+George H. W. Bush	Q5527758	George H. W. Bush is in the group of United States vice-presidential candidates, 1984		ourMiddle			0	-0.6	1.2	-1
+George H. W. Bush	Q5527758	George H. W. Bush is in the group of World Golf Hall of Fame inductees		ourTop		1		1.6	-2	1.6
+George Soros	Q12908	George Soros is in the group of American businesspeople convicted of crimes	P27=Q30,P106=Q43845,_	ourMiddle		2		0.8	-1.2	0.6
+George Soros	Q12908	George Soros is in the group of American stock traders	P27=Q30,_	ourBottom		0	0	-0.6	0.4	-1.4
+George Soros	Q12908	George Soros is in the group of Hungarian Esperantists		ourTop		1		0.4	-2	0.4
+George Soros	Q12908	Soros's profit on the bet was estimated at over $1 billion.		baseline		0	0	0	-2	0.6
+George W. Bush	Q207	George W. Bush is in the group of 21st-century American painters	cent21,P27=Q30,_	ourTop		2	3	1	-0.4	0.4
+George W. Bush	Q207	George W. Bush is in the group of American financiers	P27=Q30,_	ourMiddle		1		0.2	-2	-0.4
+George W. Bush	Q207	George W. Bush is in the group of Presidents of the United States	P39=Q11696	ourBottom		1	0	-1.8	2	-1.8
+George Washington	Q207	George Washington is in the group of Burials at Mount Vernon		ourTop		1	0	0.4	-1.2	0.2
+George Washington	Q207	George Washington is in the group of Rebels		ourMiddle		0	0	-1	1.2	-1
+George Washington	Q207	George Washington is in the group of Washington and Lee University people		ourBottom		0	0	-1	-1.2	-1
+George Washington	Q207	Washington's height was variously recorded as  to , and he had unusually great physical strength that amazed younger men.		baseline		0	0	-0.4	-2	-0.2
+Gonzalo HiguaÃ­n	Q483846	During the first weeks of December 2010, Higuaín was diagnosed with a herniated lumbar disc, and Real's medical staff suggested that he should have it operated.		baseline		0	0	0	-2	0.6
+Gonzalo HiguaÃ­n	Q483846	Gonzalo HiguaÃ­n is in the group of Expatriate footballers in Spain		ourMiddle		0	0	-0.4	-2	-0.4
+Gonzalo HiguaÃ­n	Q483846	Gonzalo HiguaÃ­n is in the group of French emigrants to Argentina		ourTop		0	0	0	-2	0
+Gonzalo HiguaÃ­n	Q483846	Gonzalo HiguaÃ­n is in the group of La Liga players		ourBottom		1	3	-1	-2	-0.8
+Heath Ledger	Q40572	Heath Ledger is in the group of 20th-century Australian male actors	cent20,_,P21=Q6581097,P106=Q33999	ourMiddle		2	3	-1.6	1.2	-1.6
+Heath Ledger	Q40572	Heath Ledger is in the group of Best Supporting Actor Academy Award winners	P166=_	ourBottom		1		-0.6	1.2	-1.2
+Heath Ledger	Q40572	Heath Ledger is in the group of Rock Eisteddfod Challenge participants		ourTop				1	-2	1
+Herbert Henry Dow	Q908544	Herbert Henry Dow is in the group of American chemists	P27=Q30,_	ourMiddle				-0.8	0.4	-0.8
+Herbert Henry Dow	Q908544	Herbert Henry Dow is in the group of Canadian emigrants to the United States	P27=Q16,_	ourTop				-0.2	-2	-0.2
+Herbert Henry Dow	Q908544	Herbert Henry Dow is in the group of Dow Chemical Company		ourBottom				-1.6	-1.2	-1.6
+Jason Statham	Q169963	Jason Statham is in the group of Divers at the 1990 Commonwealth Games		ourTop				1.6	-2	1.6
+Jason Statham	Q169963	Jason Statham is in the group of English kickboxers	P27=Q145,_	ourMiddle				1	-2	0.4
+Jason Statham	Q169963	Jason Statham is in the group of English male voice actors	P27=Q145,P21=Q6581097,P106=Q2405480	ourBottom				-1.4	0.4	-1.4
+Jason Statham	Q169963	Statham has advocated for stunt performers to be given their own category at the Oscars.		baseline				0.8	-1.2	1.2
+Jill Stein	Q235321	Jill Stein is in the group of 21st-century American physicians	cent21,P27=Q30,_	ourTop				-1	0.4	-0.8
+Jill Stein	Q235321	Jill Stein is in the group of Candidates in United States elections, 2002		ourMiddle				-1.8	1.2	-1.4
+Jill Stein	Q235321	Jill Stein is in the group of Massachusetts local politicians	_,_,P106=Q82955	ourBottom				-0.6	-2	0.2
+John Cena	Q44437	Cena's debut album, You Can't See Me, was recorded with his cousin Tha Trademarc.		baseline				-0.2	-0.4	0.2
+John Cena	Q44437	John Cena is in the group of American male rappers	P27=Q30,P21=Q6581097,_	ourMiddle				1	-2	1
+John Cena	Q44437	John Cena is in the group of American professional wrestlers of Italian descent	P27=Q30,P106=Q13474373,P172=Q50001	ourBottom				-1.4	0.4	-1.4
+John Cena	Q44437	John Cena is in the group of Formula D drivers		ourTop				1.6	-2	1.2
+John F. Kennedy	Q9696	Costs for the Apollo program were expected to reach $40 billion.		baseline				0.8	-2	1.2
+John F. Kennedy	Q9696	John F. Kennedy is in the group of Presidents of the United States	P39=Q11696	ourBottom				-2	2	-1.8
+John F. Kennedy	Q9696	John F. Kennedy is in the group of Recipients of the Purple Heart medal		ourMiddle				1.2	-0.4	1.4
+John F. Kennedy	Q9696	John F. Kennedy is in the group of Star class sailors		ourTop				1.2	-2	1
+Justin Timberlake	Q43432	Considered a pop icon since his sophomore album, his work has influenced numerous artists, including Maroon 5, Britney Spears, Lorde,  Marilyn Manson, Justin Bieber, Ed Sheeran, Jason Derulo, Bridgit Mendler, Tori Kelly, Hunter Hayes, Liam Payne, Lloyd Banks, Shawn Mendes and Maluma.		baseline		0	0	-1.2	-0.4	-1
+Justin Timberlake	Q43432	Justin Timberlake is in the group of American restaurateurs	P27=Q30,_	ourTop				1	-1.2	0.8
+Justin Timberlake	Q43432	Justin Timberlake is in the group of American rhythm and blues singers	P27=Q30,P136=Q45981,P106=Q177220	ourBottom				-1.4	2	-1.6
+Justin Timberlake	Q43432	Justin Timberlake is in the group of World Music Awards winners	P166=_	ourMiddle				-1.4	-0.4	-0.6
+Kanye West	Q15935	Kanye West is in the group of Hip hop activists		ourBottom				-1	0.4	-1
+Kanye West	Q15935	Kanye West is in the group of Kardashian family		ourTop				-1	1.2	-1.2
+Kanye West	Q15935	Kanye West is in the group of World Music Awards winners	P166=_	ourMiddle				-1.4	-0.4	-1.4
+LeBron James	Q36159	Immediately following The Decision, James claimed that there was nothing he would change about the handling of his free agency despite all the criticism.		baseline				-1.6	-1.2	-1.4
+LeBron James	Q36159	LeBron James is in the group of African-American basketball players	P172=Q49085,_	ourBottom				-1.8	2	-1.6
+LeBron James	Q36159	LeBron James is in the group of Liverpool F.C. chairmen and investors		ourTop				0.8	-1.2	0.8
+LeBron James	Q36159	LeBron James is in the group of United States men's national basketball team players		ourMiddle				-1.2	2	-1.6
+Leonardo DiCaprio	Q38111	Leonardo DiCaprio is in the group of American film producers	P27=Q30,P106=Q3282637	ourBottom				0.2	0.4	-0.2
+Leonardo DiCaprio	Q38111	Leonardo DiCaprio is in the group of Formula E team owners		ourTop				1	-2	1
+Leonardo DiCaprio	Q38111	Leonardo DiCaprio is in the group of Outstanding Performance by a Male Actor in a Leading Role Screen Actors Guild Award winners	P166=_	ourMiddle				-0.8	1.2	-1.2
+Lewis Hamilton	Q9673	Lewis Hamilton is in the group of English racing drivers	P27=Q145,_	ourBottom				-1.8	-0.4	-1.8
+Lewis Hamilton	Q9673	Lewis Hamilton is in the group of Formula 3 Euro Series drivers		ourMiddle				-1.6	-1.2	-1.6
+Lewis Hamilton	Q9673	Lewis Hamilton is in the group of Male karateka		ourTop				0.4	-2	0
+Macaulay Culkin	Q103578	Culkin began acting at the age of four.		baseline				1	-1.2	-0.2
+Macaulay Culkin	Q103578	Macaulay Culkin is in the group of 21st-century American male actors	cent21,P27=Q30,P21=Q6581097,P106=Q33999	ourBottom				-2	2	-2
+Macaulay Culkin	Q103578	Macaulay Culkin is in the group of American male ballet dancers	P27=Q30,P21=Q6581097,_	ourTop				1.4	-2	1
+Macaulay Culkin	Q103578	Macaulay Culkin is in the group of American male stage actors	P27=Q30,P21=Q6581097,_	ourMiddle				-1.2	1.2	-1.2
+Malala Yousafzai	Q32732	Malala Yousafzai is in the group of Pakistani memoirists		ourTop				-1.2	-1.2	-1.6
+Malala Yousafzai	Q32732	Malala Yousafzai is in the group of Victims of the Tehrik-i-Taliban Pakistan		ourMiddle				-0.8	-0.4	0
+Malala Yousafzai	Q32732	On 9 March, Yousafzai wrote about a science paper that she performed well on, and added that the Taliban were no longer searching vehicles as they once did.		baseline				-0.25	-2	0.6
+Margaret Thatcher	Q7416	Margaret Thatcher is in the group of Dames Grand Cross of the Royal Order of Francis I		ourTop				-0.4	-2	-0.4
+Margaret Thatcher	Q7416	Margaret Thatcher is in the group of Female members of the Cabinet of the United Kingdom	P21=Q6581072,_	ourMiddle				-1.4	0.4	-1.4
+Margaret Thatcher	Q7416	The Conservative Party under Edward Heath won the 1970 general election, and Thatcher was subsequently appointed to the Cabinet as Secretary of State for Education and Science.		baseline				0	-2	0
+Michael Fassbender	Q57147	Michael Fassbender is in the group of 20th-century Irish male actors	cent20,P27=Q27,P21=Q6581097,P106=Q33999	ourMiddle				-1.4	0.4	-1.2
+Michael Fassbender	Q57147	Michael Fassbender is in the group of Best Supporting Actor AACTA International Award winners	P166=_	ourBottom				-0.4	-1.2	-0.8
+Michael Fassbender	Q57147	Michael Fassbender is in the group of People educated at St. Brendan's College, Killarney		ourTop				0.6	-2	0.6
+Michael Jackson	Q2831	Michael Jackson is in the group of American rhythm and blues singers	P27=Q30,P136=Q45981,P106=Q177220	ourBottom				-1.4	2	-1.6
+Michael Jackson	Q2831	Michael Jackson is in the group of Motown artists		ourMiddle				-0.4	0.4	-1
+Michael Jackson	Q2831	Michael Jackson is in the group of National Museum of Dance Hall of Fame inductees		ourTop				0.4	-2	-0.6
+Michael Jackson	Q2831	There have also been several detailed estimates of Jackson's net worth which range from negative $285 million to positive $350 million for the years 2002, 2003 and 2007.		baseline				-1	-2	-0.8
+Mike Pence	Q24313	Mike Pence is in the group of 20th-century American politicians	cent20,P27=Q30,P106=Q82955	ourMiddle				-1.6	1.2	-1.6
+Mike Pence	Q24313	Mike Pence is in the group of Donald Trump presidential campaign, 2016		ourTop				-1.4	0.4	-1.4
+Mike Pence	Q24313	Mike Pence is in the group of Tea Party movement activists		ourBottom				-0.4	-1.2	-0.6
+Mother Teresa	Q30547	Mother Teresa is in the group of Grand Order of Queen Jelena recipients		ourTop				0.6	-2	0.6
+Mother Teresa	Q30547	Mother Teresa is in the group of Jawaharlal Nehru Award laureates	P166=_	ourMiddle				0	-2	-0.6
+Muhammad Ali	Q36107	Muhammad Ali is in the group of American Sunni Muslims	P27=Q30,_	ourMiddle				0.6	-0.4	0
+Muhammad Ali	Q36107	Muhammad Ali is in the group of Overturned convictions in the United States		ourTop				0.6	-1.2	0.8
+Mustafa Kemal Ataturk	Q5152	Mustafa Kemal Ataturk is in the group of Members of the Special Organization of the Ottoman Empire		ourBottom				-0.4	-2	0.2
+Mustafa Kemal Ataturk	Q5152	Mustafa Kemal Ataturk is in the group of Ottoman military personnel of World War I		ourMiddle				-0.6	-2	-0.6
+Mustafa Kemal Ataturk	Q5152	On 30 August 1925, Mustafa Kemal's view on religious insignia used outside places of worship was introduced in his Kastamonu speech.		baseline				-0.2	-1.2	0
+Napoleon	Q517	Napoleon is in the group of French military leaders of the French Revolutionary Wars		ourBottom				-0.8	1.2	-1.4
+Napoleon	Q517	Napoleon is in the group of House of Bonaparte		ourMiddle				-0.8	1.2	-1.4
+Napoleon	Q517	Napoleon is in the group of Kings of Italy		ourTop				0.8	-2	0.4
+Napoleon	Q517	The cause of his death has been debated.		baseline				0	0.4	-0.2
+Philip May	Q25194731	He served as the Oxford Union Society's President during 1979.		baseline				0.4	-2	0.4
+Philip May	Q25194731	Philip May is in the group of Alumni of Lincoln College, Oxford	P69=_	ourMiddle				0.2	-2	0.2
+Philip May	Q25194731	Philip May is in the group of Spouses of Prime Ministers of the United Kingdom		ourTop				-0.6	-2	-0.8
+Philippe Petit	Q705289	He autographed a steel beam close to the point where he began his walk.		baseline				1	-2	0.8
+Philippe Petit	Q705289	Philippe Petit is in the group of French magicians		ourTop				-0.8	-1.2	-0.8
+Philippe Petit	Q705289	Philippe Petit is in the group of Tightrope walkers		ourBottom				-1.2	-2	-0.8
+Queen Latifah	Q1112005	Latifah's older brother, Lancelot Jr., was killed in 1992 in an accident involving a motorcycle that Latifah had recently bought him.		baseline				1.4	-2	1.6
+Queen Latifah	Q1112005	Queen Latifah is in the group of East Coast hip hop musicians		ourBottom				-1.2	2	-1.4
+Queen Latifah	Q1112005	Queen Latifah is in the group of Motown artists		ourMiddle				-1	0.4	-0.8
+Queen Latifah	Q1112005	Queen Latifah is in the group of Verve Records artists		ourTop				-1	-2	-1
+Rafael Nadal	Q10132	Nadal and Andy Murray have met on 24 occasions since 2007, with Nadal leading 17–7.		baseline				0.4	-2	0.4
+Rafael Nadal	Q10132	Rafael Nadal is in the group of Olympic gold medalists for Spain		ourTop				0.4	-0.4	-0.2
+Rafael Nadal	Q10132	Rafael Nadal is in the group of US Open (tennis) champions		ourMiddle				-1.4	1.2	-1.4
+Recep Tayyip Erdogan	Q39259	Erdogan last public appearance before assuming the presidency was his parting speech during the AKP's first ever extraordinary congress on 27 August 2014, where his successor as party leader was to be elected.		baseline				0.2	-2	0.4
+Recep Tayyip Erdogan	Q39259	Recep Tayyip Erdogan is in the group of Leaders of political parties in Turkey		ourMiddle				-1.4	-0.4	-1.4
+Recep Tayyip Erdogan	Q39259	Recep Tayyip Erdogan is in the group of Naqshbandi order		ourTop				-1	-1.2	-1.4
+Ricardo Quaresma	Q188241	Ricardo Quaresma is in the group of Al Ahli Club (Dubai) players		ourTop				-0.8	-2	-1.4
+Ricardo Quaresma	Q188241	Ricardo Quaresma is in the group of Premier League players		ourMiddle				-1.4	-1.2	-1.2
+Ricardo Quaresma	Q188241	Ricardo Quaresma is in the group of UEFA Euro 2016 players		ourBottom				-0.8	-1.2	-0.8
+Rihanna	Q36844	Mexican singer Becky G has stated Rihanna is one of style icons to Latina magazine.		baseline				-1	-2	-1
+Rihanna	Q36844	Rihanna is in the group of Barbadian female singers	_,P21=Q6581072,P106=Q177220	ourBottom				-0.8	1.2	-0.8
+Rihanna	Q36844	Rihanna is in the group of Film actresses	P21=Q6581072,_	ourTop				-0.4	-0.4	-0.8
+Rihanna	Q36844	Rihanna is in the group of Juno Award winners	P166=_	ourMiddle				-0.6	-1.2	-0.8
+Robin Williams	Q83338	News of Williams' death spread quickly worldwide.		baseline				-1.4	1.2	-1.4
+Robin Williams	Q83338	Robin Williams is in the group of American Episcopalians	P27=Q30,_	ourTop				1.4	-2	1.2
+Robin Williams	Q83338	Robin Williams is in the group of American male comedians	P27=Q30,P21=Q6581097,_	ourBottom				-1.8	2	-1.8
+Robin Williams	Q83338	Robin Williams is in the group of Mimes		ourMiddle				0.6	-1.2	-0.4
+Roger Federer	Q1426	Federer then played in the Shanghai Masters.		baseline				-1.2	-1.2	-1.2
+Roger Federer	Q1426	Roger Federer is in the group of Australian Open (tennis) champions		ourMiddle				-1	1.2	-1
+Roger Federer	Q1426	Roger Federer is in the group of Olympic silver medalists for Switzerland		ourTop				-1.4	-1.2	-1.4
+Roger Federer	Q1426	Roger Federer is in the group of Wimbledon champions		ourBottom				-0.8	1.2	-0.8
+Ronald Reagan	Q9960	Reagan was ordered to active duty for the first time on April 18, 1942.		baseline				1	-2	0.8
+Ronald Reagan	Q9960	Ronald Reagan is in the group of 21st-century Presbyterians		ourBottom				-0.6	-1.2	-0.4
+Ronald Reagan	Q9960	Ronald Reagan is in the group of American Presbyterians	P27=Q30,_	ourMiddle				-0.2	-1.2	-0.6
+Ronald Reagan	Q9960	Ronald Reagan is in the group of Chicago Cubs broadcasters		ourTop				1.8	-2	1.6
+Ronaldo	Q11571	Ronaldo is in the group of A.C. Milan players		ourMiddle				-1.6	-0.4	-1.4
+Ronaldo	Q11571	Ronaldo is in the group of A1 Grand Prix team owners		ourTop				1.2	-2	0.6
+Ronaldo	Q11571	Ronaldo is in the group of FIFA World Cup-winning players		ourBottom				-1.2	-0.4	-1.2
+Ronda Rousey	Q242201	Her favorite Pokémon is Mew and she had a childhood crush on Vegeta.		baseline				0.8	-1.2	0.8
+Ronda Rousey	Q242201	Ronda Rousey is in the group of 21st-century American actresses	cent21,P27=Q30,P21=Q6581072,P106=Q33999	ourTop				-0.6	-0.4	-0.2
+Ronda Rousey	Q242201	Ronda Rousey is in the group of American judoka	P27=Q30,_	ourBottom				-1	-0.4	-1
+Ronda Rousey	Q242201	Ronda Rousey is in the group of Judoka at the 2008 Summer Olympics		ourMiddle				0	-1.2	0
+Ruth Bader Ginsburg	Q11116	Ruth Bader Ginsburg is in the group of Constitutional court women judges		ourBottom				-0.6	1.2	-0.8
+Ruth Bader Ginsburg	Q11116	Ruth Bader Ginsburg is in the group of Jewish scholars		ourTop				-1.8	-0.4	-1.8
+Ruth Bader Ginsburg	Q11116	Ruth Bader Ginsburg is in the group of Judges of the United States Court of Appeals for the D.C. Circuit		ourMiddle				-1.6	2	-1.6
+Sachin Tendulkar	Q9488	Sachin Tendulkar continued performing well in Test cricket in 2001 and 2002, with some pivotal performances with both bat and ball.		baseline				-0.8	-2	-0.2
+Sachin Tendulkar	Q9488	Sachin Tendulkar is in the group of Indian Air Force officers	P27=Q668,_	ourTop				-0.4	-2	-0.4
+Sachin Tendulkar	Q9488	Sachin Tendulkar is in the group of Indian Premier League coaches	P27=Q668,_	ourMiddle				-1.4	-2	-1.4
+Shakira	Q34424	Shakira is in the group of Colombian Roman Catholics		ourTop				0	-0.4	-0.4
+Shakira	Q34424	Shakira is in the group of Colombian singer-songwriters	_,P106=Q488205	ourMiddle				-1.4	2	-1.4
+Shakira	Q34424	Shakira is in the group of Ivor Novello Award winners	P166=_	ourBottom				0.2	-1.2	0.2
+Sia Furler	Q181484	Sia Furler is in the group of Australian female pop singers	_,P21=Q6581072,P136=Q37073,P106=Q177220	ourMiddle				-1.2	0.4	-1.2
+Sia Furler	Q181484	Sia Furler is in the group of Australian feminists		ourTop				-0.2	-2	-1
+Snoop Dogg	Q6096	Snoop Dogg is in the group of Gangsta rappers		ourBottom				-1.6	2	-1.8
+Snoop Dogg	Q6096	Snoop Dogg is in the group of Reggae fusion artists		ourMiddle				-0.4	1.2	-0.8
+Snoop Dogg	Q6096	Snoop Dogg is in the group of WWE Hall of Fame		ourTop				1.8	-1.2	1
+Steffi Graf	Q11662	Monica Seles beat Graf in three sets in the final of the Australian Open 4–6, 6–3, 6–2.		baseline				-0.8	-1.2	-1.2
+Steffi Graf	Q11662	Steffi Graf is in the group of French Open champions		ourBottom				-0.6	0.4	-1
+Steffi Graf	Q11662	Steffi Graf is in the group of Hopman Cup competitors		ourMiddle				-0.6	-1.2	-1
+Steffi Graf	Q11662	Steffi Graf is in the group of Olympic gold medalists for West Germany		ourTop				-0.4	-0.4	-0.4
+Stephen Hawking	Q17714	Hawking has received numerous awards and honours.		baseline	1			-1.8	1.2	-1.8
+Stephen Hawking	Q17714	Stephen Hawking is in the group of Fellows of the Royal Society		ourMiddle				0.6	-1.2	0.6
+Steve Jobs	Q19837	Steve Jobs is in the group of American Zen Buddhists	P27=Q30,_	ourTop				0.8	-2	0.6
+Steve Jobs	Q19837	Steve Jobs is in the group of American technology chief executives	P27=Q30,_	ourMiddle				-1.6	2	-1.6
+Sylvester Stallone	Q40026	Known for physically demanding roles, and his willingness to do a majority of his own stunts, Stallone has suffered numerous injuries during his acting career.		baseline				-0.2	-0.4	-0.4
+Sylvester Stallone	Q40026	Sylvester Stallone is in the group of American male television actors	P27=Q30,P21=Q6581097,P106=Q10798782	ourMiddle				-1.4	2	-1.6
+Sylvester Stallone	Q40026	Sylvester Stallone is in the group of International Boxing Hall of Fame inductees		ourTop				1	-2	-0.4
+Sylvester Stallone	Q40026	Sylvester Stallone is in the group of Sylvester Stallone		ourBottom				-2	2	-1.4
+Sylvia Seegrist	Q7661006	Sylvia Seegrist is in the group of American people convicted of murder	P27=Q30,_	ourTop				-0.2	-2	-0.4
+Sylvia Seegrist	Q7661006	Sylvia Seegrist is in the group of People convicted of murder by Pennsylvania		ourMiddle				-0.8	-2	-0.8
+Sylvia Seegrist	Q7661006	Sylvia Seegrist is in the group of Prisoners sentenced to life imprisonment by Pennsylvania		ourBottom				-0.8	-2	0
+The Undertaker	Q44304	In 1989, Calaway joined World Championship Wrestling (WCW) as a villain and adopted the ring name Mean Mark Callous, a name devised for him by Terry Funk.		baseline				0.8	-2	0.4
+The Undertaker	Q44304	The Undertaker is in the group of Fictional undertakers		ourBottom				-1.8	0.4	-1.8
+The Undertaker	Q44304	The Undertaker is in the group of Masked wrestlers		ourMiddle				-1.4	1.2	-1.2
+The Undertaker	Q44304	The Undertaker is in the group of People awarded a black belt in Brazilian jiu-jitsu		ourTop				1.2	-2	1.2
+Tim Kaine	Q359888	Kaine proposed $4 billion in tax increases while governor, which were not passed by the state legislature.		baseline				0.4	-2	0.6
+Tim Kaine	Q359888	Tim Kaine is in the group of Democratic Party state governors of the United States		ourBottom				-1	2	-1
+Tim Kaine	Q359888	Tim Kaine is in the group of Mayors of Richmond, Virginia		ourMiddle				-1	-0.4	-0.8
+Tim Kaine	Q359888	Tim Kaine is in the group of Roman Catholic missionaries		ourTop				-0.2	-0.4	-0.6
+Tom Hanks	Q2263	Tom Hanks is in the group of 20th-century American male actors	cent20,P27=Q30,P21=Q6581097,P106=Q33999	ourBottom				-1.4	1.2	-1.4
+Tom Hanks	Q2263	Tom Hanks is in the group of Primetime Emmy Award winners	P166=_	ourMiddle				-0.8	-0.4	-1.4
+Tom Hanks	Q2263	Tom Hanks is in the group of Space advocates		ourTop				0.4	-2	-0.2
+Tom Hiddleston	Q295803	Thomas William Hiddleston (born 9 February 1981) is an English actor.	P27=Q145,P106=Q33999	baseline				-1.6	0.4	-1.6
+Tom Hiddleston	Q295803	Tom Hiddleston is in the group of Best Male Newcomer Empire Award winners	P166=_	ourBottom				-1	-1.2	-1
+Tom Hiddleston	Q295803	Tom Hiddleston is in the group of English male radio actors	P27=Q145,P21=Q6581097,_	ourMiddle				-0.6	-0.4	-1
+Tom Hiddleston	Q295803	Tom Hiddleston is in the group of People educated at Eton College		ourTop				0.2	-2	0.4
+Tony Blair	Q9545	A Freedom of Information request by The Sunday Times in 2012 revealed that Blair's government considered knighting Syria's President Bashar al-Assad.		baseline				0.8	-1.2	0.8
+Tony Blair	Q9545	Tony Blair is in the group of UK MPs 1983–87		ourMiddle				-0.6	-1.2	-1
+Tony Blair	Q9545	Tony Blair is in the group of Yale University faculty		ourTop				1	-2	1
+Tony Gwynn	Q1145222	Tony Gwynn is in the group of Gold Glove Award winners	P166=_	ourMiddle				-0.2	-1.2	-0.6
+Tony Gwynn	Q1145222	Tony Gwynn is in the group of San Diego Padres players		ourBottom				-1.6	0.4	-1.6
+Tony Gwynn	Q1145222	Tony Gwynn is in the group of San Diego State Aztecs baseball coaches		ourTop				-0.2	-1.2	-0.4
+Tupac Shakur	Q6107	His singles also saw a boost in sales.		baseline				-1.4	-0.4	-1.4
+Tupac Shakur	Q6107	Tupac Shakur is in the group of 20th-century African-American activists	cent20,P172=Q49085,_	ourTop				-0.6	-0.4	-1.4
+Tupac Shakur	Q6107	Tupac Shakur is in the group of 20th-century American male actors	cent20,P27=Q30,P21=Q6581097,P106=Q33999	ourMiddle				-0.8	1.2	-1.2
+Tupac Shakur	Q6107	Tupac Shakur is in the group of Hip hop activists		ourBottom				-1.8	1.2	-1.8
+Viggo Mortensen	Q171363	Viggo Mortensen is in the group of 21st-century American painters	cent21,P27=Q30,_	ourTop				0.75	-1.2	0.2
+Viggo Mortensen	Q171363	Viggo Mortensen is in the group of American male poets	P27=Q30,P21=Q6581097,_	ourBottom				1.4	-1.2	1.2
+Viggo Mortensen	Q171363	Viggo Mortensen is in the group of Outstanding Performance by a Cast in a Motion Picture Screen Actors Guild Award winners	P166=_	ourMiddle				-1.4	-0.4	-1.4
+Will Smith	Q40096	Smith attended Overbrook High School.		baseline				0.2	-2	0.2
+Will Smith	Q40096	Will Smith is in the group of 21st-century American male actors	cent21,P27=Q30,P21=Q6581097,P106=Q33999	ourBottom				-1.6	2	-1.8
+Will Smith	Q40096	Will Smith is in the group of 21st-century American singers	cent21,P27=Q30,P106=Q177220	ourMiddle				-1	2	-1.2
+Will Smith	Q40096	Will Smith is in the group of African-American male rappers	P172=Q49085,P21=Q6581097,_	ourTop				-1.6	2	-1.6
+William Shakespeare	Q692	William Shakespeare is in the group of 17th-century English poets	P27=Q145,_	ourMiddle				-1.8	1.2	-1.8
+William Shakespeare	Q692	William Shakespeare is in the group of People of the Stuart period		ourTop				-0.6	-1.2	-0.2
+Winston Churchill	Q8016	Winston Churchill is in the group of British military personnel of the Malakand Frontier War		ourTop				-0.6	-2	-0.2
+Winston Churchill	Q8016	Winston Churchill is in the group of UK MPs 1900–06		ourMiddle				-0.4	-1.2	-0.2
+Zlatan IbrahimoviÄ‡	Q46896	On 27 November 2013, Ibrahimović made his 100th UEFA Champions League appearance, scoring the opening goal in a 2–1 win over Olympiakos Piraeus at the Parc des Princes.		baseline				-0.25	-1.2	0
+Zlatan IbrahimoviÄ‡	Q46896	Zlatan IbrahimoviÄ‡ is in the group of Expatriate footballers in the Netherlands		ourMiddle				-0.6	-1.2	-0.6
+Zlatan IbrahimoviÄ‡	Q46896	Zlatan IbrahimoviÄ‡ is in the group of UEFA Euro 2016 players		ourBottom				-0.8	-1.2	-0.6
