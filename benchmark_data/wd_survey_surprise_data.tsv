@@ -1,0 +1,71 @@
+Input.Article	Article.wd	Input.Fact	fact.wd	goodTrivia	knew	surprising
+A. P. J. Abdul Kalam	Q9513	A. P. J. Abdul Kalam is in the group of Indian aerospace engineers	P27=Q668,P106=Q10497074	0	-2	0.4
+A. P. J. Abdul Kalam	Q9513	A. P. J. Abdul Kalam is in the group of Recipients of the Padma Vibhushan	P166=Q932650	-0.6	-2	-0.6
+Abraham Lincoln	Q91	Abraham Lincoln is in the group of Presidents of the United States	P39=Q11696	-1.8	1.2	-1.8
+Akshay Kumar	Q233748	Akshay Kumar is in the group of Canadian game show hosts	P27=Q16,P106=Q22662561	-0.6	-2	-0.4
+Akshay Kumar	Q233748	Akshay Kumar is in the group of Indian stunt performers	P27=Q668,P106=Q465501	-0.6	-2	-0.6
+Alan Rickman	Q106481	Alan Rickman is in the group of 20th-century English male actors	P27=Q145,P21=Q6581097,P106=Q33999	-1.4	2	-1.6
+Alan Rickman	Q106481	Alan Rickman is in the group of Alumni of Chelsea College of Art & Design	P69=Q860450	1	-2	0.6
+Alan Rickman	Q106481	Alan Rickman is in the group of English male voice actors	P27=Q145,P21=Q6581097,P106=Q2405480	-1.2	1.2	-1.2
+Albert Einstein	Q937	Albert Einstein is in the group of 20th-century physicists	P106=Q169470	-1.4	2	-2
+Albert Einstein	Q937	Albert Einstein is in the group of American Zionists	P27=P30,P106=Q12718299	0.25	-0.4	0.4
+Alec Baldwin	Q170572	Alec Baldwin is in the group of 20th-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-1.8	2	-1.8
+Alec Baldwin	Q170572	Alec Baldwin is in the group of Outstanding Performance by a Lead Actor in a Comedy Series Primetime Emmy Award winners	P166=Q989442	-0.8	0.4	-1
+Alexander Hamilton	Q178903	Alexander Hamilton is in the group of Inspectors General of the United States Army	P39=Q104238320	-0.2	-0.4	-0.2
+Alicia Vikander	Q439314	Alicia Amanda Vikander (born 3 October 1988) is a Swedish actress, producer and dancer.	P27=Q34,P21=Q6581072,P106=Q33999,P106=Q3282637,P106=Q5716684	-0.8	-1.2	-0.8
+Alicia Vikander	Q439314	Alicia Vikander is in the group of Best Actress Empire Award winners	P166=Q3724813	0	-2	-0.8
+Alicia Vikander	Q439314	Alicia Vikander is in the group of Outstanding Performance by a Female Actor in a Supporting Role Screen Actors Guild Award winners	P166=Q1320315	-1.2	-1.2	-1.2
+Alicia Vikander	Q439314	Alicia Vikander is in the group of Royal Swedish Ballet dancers	P69=Q2742632	0.2	-2	0.2
+Aly Raisman	Q238663	Aly Raisman is in the group of American female artistic gymnasts	P27=Q30,P21=Q6581072,P106=Q13381572	-1.6	-0.4	-1.6
+Aly Raisman	Q238663	Aly Raisman is in the group of Jewish gymnasts	P140=Q9268,P106=Q16947675	-1.2	0.4	-1.2
+Amber Heard	Q229166	Amber Heard is in the group of 21st-century American actresses	P27=Q30,P21=Q6581072,P106=Q33999	-1.4	2	-1.4
+Amber Heard	Q229166	Amber Heard is in the group of American television actresses	P27=Q30,P21=Q6581072,P106=Q10798782	-1.5	2	-1
+Ariana Grande	Q151892	Ariana Grande is in the group of American female pop singers	P27=Q30,P21=Q6581072,P106=Q177220,P136=Q37073	-1.2	1.2	-1.2
+Arnold Schwarzenegger	Q2685	Arnold Schwarzenegger is in the group of American athlete-politicians	P27=Q30,P106=Q15982795|P106=Q23845879,P106=Q82955 	-1	2	-1.4
+Arnold Schwarzenegger	Q2685	Arnold Schwarzenegger is in the group of Austrian real estate businesspeople	P27=Q40,P106=Q519076,P106=Q43845	0	-1.2	0.6
+Ben Affleck	Q483118	Ben Affleck is in the group of American poker players	P27=Q30,P106=Q15295720	0.8	0.4	0.4
+Ben Affleck	Q483118	Ben Affleck is in the group of Directors Guild of America Award winners	P166=Q1111310	-0.8	-1.2	-0.4
+Bernie Sanders	Q359442	Bernie Sanders is in the group of American filmmakers	P27=Q30,P106=Q1414443|P106=Q2526255	0.6	-2	0.6
+Beyonce	Q36153	Beyonce is in the group of American rhythm and blues singer-songwriters	P27=Q30,P136=Q45981,P106=Q488205	-1	1.2	-1.8
+Beyonce	Q36153	Beyonce is in the group of Columbia Records artists	P264=Q183387	-1.6	1.2	-1.6
+Beyonce	Q36153	Beyonce is in the group of Shoe designers	P106=Q67175841	-0.4	-1.2	-1
+Bill Gates	Q5284	Bill Gates is in the group of Bill & Melinda Gates Foundation people	P108=Q655286	-1.6	2	-1.8
+Boris Johnson	Q180589	Boris Johnson is in the group of British Secretaries of State for Foreign and Commonwealth Affairs	P39=Q1371091	-1	-0.4	-0.6
+Boris Johnson	Q180589	Johnson has dual citizenship in both the United Kingdom and the United States, since he was born in New York City to English parents.	P27=Q145,P27=Q30,P19=Q60	1.2	-2	1
+Bradley Cooper	Q205707	Bradley Cooper is in the group of 20th-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-1.4	2	-1.8
+Bradley Cooper	Q205707	Bradley Cooper is in the group of Male actors of Italian descent	P21=Q6581097,P106=Q33999,P172=Q50001	-1	-2	-0.6
+Britney Spears	Q11975	Britney Spears is in the group of American child singers	P27=Q30,P106=Q15966504	-1.8	1.2	-1.8
+Brock Lesnar	Q220556	Brock Lesnar is in the group of American male professional wrestlers	P27=Q30,P21=Q6581097,P106=Q13474373	-1.6	1.2	-1.6
+Brock Lesnar	Q220556	Brock Lesnar is in the group of American mixed martial artists	P27=Q30,P106=Q11607585	-1.8	1.2	-1.6
+Bruce Lee	Q16397	Bruce Lee is in the group of American martial artists	P27=Q30,P106=Q11124885	-0.8	2	-1.6
+Cara Delevingne	Q1395624	Cara Delevingne is in the group of English female models	P27=Q145,P21=Q6581072,P106=Q865851|P106=Q4610556	-1.4	0.4	-1.2
+Ciara	Q203223	Ciara is in the group of African-American female dancers	P172=Q49085,P21=Q6581072,P106=Q5716684	-1.4	1.2	-1.4
+Clint Eastwood	Q43203	Clint Eastwood is in the group of American jazz composers	P27=Q30,P136=Q8341,P106=Q36834	1.4	-2	1.6
+Conor McGregor	Q5162259	Conor McGregor is in the group of Irish kickboxers	P27=Q27,P106=Q11296761	-1	1.2	-1.4
+Conor McGregor	Q5162259	Conor McGregor is in the group of Male boxers	P21=Q6581097,P106=Q11338576	-1.2	0.4	-0.8
+Cristiano Ronaldo	Q11571	Cristiano Ronaldo is in the group of Portuguese male models	P27=Q45,P21=Q6581097,P106=Q4610556	-0.6	0.4	-1
+Dan Aykroyd	Q105221	Dan Aykroyd is in the group of 20th-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-1.4	2	-1.8
+Dan Aykroyd	Q105221	Dan Aykroyd is in the group of American male screenwriters	P27=Q30,P21=Q6581097,P106=Q28389	-1.4	-0.4	-1.8
+Drake (musician)	Q33240	Drake (musician) is in the group of 21st-century Canadian male actors	P27=Q16,P21=Q6581097,P106=Q33999	-0.8	2	-0.8
+Drake (musician)	Q33240	Drake (musician) is in the group of Canadian pop singers	P27=Q16,P136=Q37073,P106=Q177220	-1	-0.4	-1
+Eminem	Q5608	Eminem is in the group of American film producers	P27=Q30,P106=Q3282637	0.2	-0.4	0.2
+Franklin D. Roosevelt	Q8007	Franklin D. Roosevelt is in the group of Presidents of the United States	P39=Q11696	-1.6	2	-1.8
+Gaurav Tiwari	Q5527758	Gaurav Tiwari is in the group of Indian male actors	P27=Q668,P21=Q6581097,P106=Q33999	-1.1	-2	-1
+George H. W. Bush	Q5527758	George H. W. Bush is in the group of Presidents of the United States	P39=Q11696	-1.2	1.2	-1.2
+George W. Bush	Q207	George W. Bush is in the group of Presidents of the United States	P39=Q11696	-1.8	2	-1.8
+Jason Statham	Q169963	Jason Statham is in the group of English male voice actors	P27=Q145,P21=Q6581097,P106=Q2405480	-1.4	0.4	-1.4
+John Cena	Q44437	John Cena is in the group of American professional wrestlers of Italian descent	P27=Q30,P106=Q13474373,P172=Q50001	-1.4	0.4	-1.4
+John F. Kennedy	Q9696	John F. Kennedy is in the group of Presidents of the United States	P39=Q11696	-2	2	-1.8
+Justin Timberlake	Q43432	Justin Timberlake is in the group of American rhythm and blues singers	P27=Q30,P136=Q45981,P106=Q177220	-1.4	2	-1.6
+Leonardo DiCaprio	Q38111	Leonardo DiCaprio is in the group of American film producers	P27=Q30,P106=Q3282637	0.2	0.4	-0.2
+Macaulay Culkin	Q103578	Macaulay Culkin is in the group of 21st-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-2	2	-2
+Michael Fassbender	Q57147	Michael Fassbender is in the group of 20th-century Irish male actors	P27=Q27,P21=Q6581097,P106=Q33999	-1.4	0.4	-1.2
+Michael Jackson	Q2831	Michael Jackson is in the group of American rhythm and blues singers	P27=Q30,P136=Q45981,P106=Q177220	-1.4	2	-1.6
+Mike Pence	Q24313	Mike Pence is in the group of 20th-century American politicians	P27=Q30,P106=Q82955	-1.6	1.2	-1.6
+Ronda Rousey	Q242201	Ronda Rousey is in the group of 21st-century American actresses	P27=Q30,P21=Q6581072,P106=Q33999	-0.6	-0.4	-0.2
+Sylvester Stallone	Q40026	Sylvester Stallone is in the group of American male television actors	P27=Q30,P21=Q6581097,P106=Q10798782	-1.4	2	-1.6
+Tom Hanks	Q2263	Tom Hanks is in the group of 20th-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-1.4	1.2	-1.4
+Tom Hiddleston	Q295803	Thomas William Hiddleston (born 9 February 1981) is an English actor.	P27=Q145,P106=Q33999	-1.6	0.4	-1.6
+Tupac Shakur	Q6107	Tupac Shakur is in the group of 20th-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-0.8	1.2	-1.2
+Will Smith	Q40096	Will Smith is in the group of 21st-century American male actors	P27=Q30,P21=Q6581097,P106=Q33999	-1.6	2	-1.8
+Will Smith	Q40096	Will Smith is in the group of 21st-century American singers	P27=Q30,P106=Q177220	-1	2	-1.2
